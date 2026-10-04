@@ -38,7 +38,7 @@
 ## ◆ At a glance
 
 <p align="center">
-  <img src=".github/assets/metrics.svg" alt="10 languages, 33 page templates, 46 admin screens, 13 AI tools, 8 AI agents, 34 database tables, 67 security policies, 1,506 interface strings" width="100%">
+  <img src=".github/assets/metrics.svg" alt="10 languages, 33 page templates, 46 admin screens, 13 AI tools, 8 AI agents, 35 database tables, 67 security policies, 1,506 interface strings" width="100%">
 </p>
 
 Buildcaps turns Dubai's open property data into decisions. Visitors search in their own language and see each listing with its DLD permit, payment plan and numbers. They can test it against their own finances with the AI tools, then book a meeting in a few clicks. The team runs the whole business from the admin: content, market data, bookings, the sales pipeline and the AI agents.
@@ -194,7 +194,7 @@ flowchart LR
         CRON["Cron jobs<br/>booking · market · SEO"]
     end
     subgraph S["Supabase"]
-        PG[("Postgres<br/>34 tables · 67 RLS policies")]
+        PG[("Postgres<br/>35 tables · 67 RLS policies")]
         AUTH["Auth<br/>staff roles"]
         STO["Storage<br/>media · private documents"]
         RT["Realtime<br/>Family Decision Room"]
@@ -327,7 +327,7 @@ erDiagram
     }
 ```
 
-Nine migrations define 34 tables, 23 SQL functions and 67 row-level security policies. Content is stored as localized JSON (`{"en": …, "ar": …}`), so one row serves all ten languages.
+Ten migrations define 35 tables, 24 SQL functions and 67 row-level security policies. Content is stored as localized JSON (`{"en": …, "ar": …}`), so one row serves all ten languages.
 
 <img src=".github/assets/divider.svg" width="100%" alt="">
 
@@ -377,7 +377,7 @@ xychart-beta
     title "Platform surface"
     x-axis ["Pages", "Admin", "API", "Tables", "SQL fns", "RLS", "AI tools", "Agents"]
     y-axis "Count" 0 --> 70
-    bar [33, 46, 8, 34, 23, 67, 13, 8]
+    bar [33, 46, 8, 35, 24, 67, 13, 8]
 ```
 
 ```mermaid
@@ -403,7 +403,7 @@ pie showData
 |---|---|
 | **176** React components | **46** admin screens |
 | **11** server-action modules | **8** API routes · **3** scheduled jobs |
-| **20,718** lines of translations | **9** SQL migrations |
+| **20,718** lines of translations | **10** SQL migrations |
 
 <img src=".github/assets/divider.svg" width="100%" alt="">
 
@@ -537,11 +537,11 @@ docs/                    Research, content strategy, setup and launch guides
 
 ### Deployment
 
-The site deploys to **Vercel** in the Frankfurt region, close to both Dubai and the database. These scheduled jobs run on Vercel Cron:
+The site deploys to **Vercel** in the Frankfurt region, close to both Dubai and the database. The booking job runs every 15 minutes from the database's own scheduler (`pg_cron` with `pg_net`, authenticated by a token the database generates). The weekly jobs run on Vercel Cron:
 
 | Job | Schedule (UTC) | Work |
 |---|---|---|
-| `/api/cron/booking` | Daily, 05:00 | Reminders, advisor briefs, feedback requests, Advisor Scores |
+| `/api/cron/booking` | Every 15 minutes | Reminders 24 h and 1 h before, advisor briefs, feedback requests, Advisor Scores |
 | `/api/cron/market` | Mondays, 02:00 | DLD import, community figures, the market note, listing surroundings |
 | `/api/cron/seo` | Mondays, 03:00 | SEO Growth Agent run |
 

@@ -15,7 +15,7 @@ export const maxDuration = 60
  * and once a day the Advisor Scores.
  */
 export async function GET(request: NextRequest) {
-  if (!authorizedCron(request)) return NextResponse.json({ error: "unauthorized" }, { status: 401 })
+  if (!(await authorizedCron(request))) return NextResponse.json({ error: "unauthorized" }, { status: 401 })
   if (!adminConfigured) return NextResponse.json({ skipped: "Supabase service role not configured" })
 
   const supabase = adminClient()

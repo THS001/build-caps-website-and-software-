@@ -10,7 +10,7 @@ export const maxDuration = 300
 
 /** Weekly: DLD ingest, community stats, draft market note (Market Intel agent), listing surroundings. */
 export async function GET(request: NextRequest) {
-  if (!authorizedCron(request)) return NextResponse.json({ error: "unauthorized" }, { status: 401 })
+  if (!(await authorizedCron(request))) return NextResponse.json({ error: "unauthorized" }, { status: 401 })
   const report = await runMarketIntel("cron")
   const surroundings = await refreshSurroundings({ limit: 15, budgetMs: 120_000 })
   revalidateTag(CONTENT_TAG)

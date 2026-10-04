@@ -7,6 +7,6 @@ export const maxDuration = 300
 
 /** Weekly: SEO Growth Agent (dry run unless SEO_AGENT_MODE=live). */
 export async function GET(request: NextRequest) {
-  if (!authorizedCron(request)) return NextResponse.json({ error: "unauthorized" }, { status: 401 })
+  if (!(await authorizedCron(request))) return NextResponse.json({ error: "unauthorized" }, { status: 401 })
   return NextResponse.json(await runSeoAgent({ trigger: "cron" }))
 }
