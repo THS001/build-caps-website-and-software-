@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 10" width="1280" height="10" role="presentation">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#b76e79" stop-opacity="0"/><stop offset="0.5" stop-color="#b76e79" stop-opacity="0.55"/><stop offset="1" stop-color="#b76e79" stop-opacity="0"/></linearGradient>
+    <linearGradient id="glint" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.95"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect y="4" width="1280" height="2" rx="1" fill="url(#base)"/>
+  <rect x="-220" y="3" width="220" height="4" rx="2" fill="url(#glint)"><animate attributeName="x" values="-220;1280" dur="4.5s" repeatCount="indefinite"/></rect>
+  <circle cx="640" cy="5" r="4" fill="#b76e79"/>
+</svg>
