@@ -1,0 +1,15 @@
+# Never upload secrets; Vercel gets them as project environment variables.
+.env*
+!.env.example
+
+# Local build output, caches and tooling
+node_modules
+.next
+.vercel
+_archive
+*.tsbuildinfo
+npm-debug.log*
+scripts/.translation-state.json
+
+# Regenerated on install by scripts/copy-maplibre-worker.mjs
+/public/maplibre

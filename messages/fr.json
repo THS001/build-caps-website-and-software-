@@ -1,0 +1,2064 @@
+{
+  "meta": {
+    "siteName": "Buildcaps Real Estate",
+    "defaultTitle": "Buildcaps | Investir dans l’immobilier à Dubaï avec des données, pas des suppositions",
+    "titleTemplate": "%s | Buildcaps Real Estate",
+    "defaultDescription": "Le partenaire immobilier de Dubaï guidé par les données, pour les investisseurs du monde entier. Des chiffres transparents, un accès anticipé aux lancements sur plan et un achat entièrement à distance, dans votre langue."
+  },
+  "common": {
+    "brandTagline": "Bâtir votre patrimoine",
+    "bookCall": "Réserver un appel stratégique gratuit",
+    "bookViewing": "Réserver une visite",
+    "explore": "Découvrir les biens",
+    "viewAll": "Tout voir",
+    "learnMore": "En savoir plus",
+    "readMore": "Lire la suite",
+    "back": "Retour",
+    "next": "Suivant",
+    "continue": "Continuer",
+    "submit": "Envoyer",
+    "close": "Fermer",
+    "loading": "Chargement…",
+    "share": "Partager",
+    "save": "Enregistrer",
+    "saved": "Enregistré",
+    "compare": "Comparer",
+    "whatsapp": "Discuter sur WhatsApp",
+    "call": "Appelez-nous",
+    "email": "Écrivez-nous",
+    "from": "À partir de",
+    "priceOnRequest": "Prix sur demande",
+    "approx": "≈ {amount}",
+    "estimated": "Estimé",
+    "source": "Source : {source}",
+    "beds": "{count, plural, =0 {Studio} one {# chambre} other {# chambres}}",
+    "baths": "{count, plural, one {# salle de bain} other {# salles de bain}}",
+    "area": "{value} {unit}",
+    "units": {
+      "sqft": "ft²",
+      "sqm": "m²"
+    },
+    "currency": "Devise",
+    "unit": "Unités",
+    "language": "Langue",
+    "status": {
+      "offPlan": "Sur plan",
+      "ready": "Livré",
+      "forSale": "À vendre",
+      "forRent": "À louer",
+      "newLaunch": "Nouveau lancement",
+      "soldOut": "Complet",
+      "exclusive": "Exclusivité"
+    },
+    "handover": "Livraison {quarter}",
+    "quarter": "T{quarter} {year}",
+    "types": {
+      "apartment": "Appartement",
+      "villa": "Villa",
+      "townhouse": "Maison de ville",
+      "penthouse": "Penthouse",
+      "duplex": "Duplex",
+      "plot": "Terrain",
+      "office": "Bureau",
+      "retail": "Local commercial"
+    },
+    "permit": "Permis Trakheesi {number}",
+    "permitScan": "Scannez pour vérifier cette annonce auprès du Dubai Land Department",
+    "verified": "Vérifié le {date}",
+    "notFinancialAdvice": "Estimations données à titre informatif uniquement. Ne constitue pas un conseil financier. Les performances passées ne garantissent pas les résultats futurs.",
+    "required": "Obligatoire",
+    "optional": "Facultatif",
+    "sampleData": "Données d'exemple · aperçu uniquement",
+    "estYield": "Rendement est. {value}",
+    "comingSoon": "Bientôt disponible",
+    "pendingData": "Données en cours de préparation",
+    "durations": {
+      "15m": "15 minutes",
+      "30m": "30 minutes",
+      "1h": "une heure"
+    },
+    "verifiedShort": "Vérifié",
+    "faqTitle": "Questions fréquentes",
+    "relatedTitle": "À lire aussi sur Buildcaps",
+    "empty": {
+      "communities": "Nos guides des quartiers sont en cours de rédaction, à partir des chiffres actualisés du Dubai Land Department. Un conseiller peut dès aujourd'hui vous présenter n'importe quel secteur.",
+      "launches": "De nouveaux lancements sont en cours d'ajout. Demandez à un conseiller les dernières sorties, y compris celles qui n'ont pas encore été annoncées publiquement.",
+      "developers": "Les profils des promoteurs sont en cours de vérification au regard des registres de livraison avant leur publication.",
+      "team": "Les profils de nos conseillers sont en cours de mise à jour. Vous pouvez toujours réserver un appel ou nous écrire sur WhatsApp.",
+      "reports": "Le prochain rapport de marché est en cours de préparation. En attendant, demandez les derniers chiffres à un conseiller.",
+      "listings": "Des annonces sont en cours d'ajout. Dites à un conseiller ce que vous recherchez et il vous enverra une sélection.",
+      "cta": "Parler à un conseiller"
+    }
+  },
+  "nav": {
+    "properties": "Biens",
+    "offPlan": "Sur plan",
+    "opportunities": "Opportunités",
+    "communities": "Quartiers",
+    "developers": "Promoteurs",
+    "invest": "Investir à Dubaï",
+    "tools": "IA & outils",
+    "services": "Services",
+    "insights": "Analyses",
+    "reports": "Rapports de marché",
+    "about": "À propos",
+    "team": "Nos conseillers",
+    "awards": "Distinctions",
+    "careers": "Carrières",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "book": "Réserver un appel",
+    "menu": "Menu",
+    "skipToContent": "Aller au contenu",
+    "groups": {
+      "buy": "Acheter",
+      "learn": "S’informer",
+      "company": "Entreprise"
+    },
+    "servicesMenu": {
+      "buy": "Acheter un bien",
+      "sell": "Vendre un bien",
+      "rent": "Louer un bien",
+      "propertyManagement": "Gestion locative",
+      "mortgage": "Crédit immobilier",
+      "valuation": "Estimation gratuite"
+    }
+  },
+  "footer": {
+    "about": "Buildcaps est un cabinet de conseil immobilier basé à Dubaï qui aide les investisseurs du monde entier à bâtir leur patrimoine grâce à l’immobilier aux Émirats, en accord avec le plan directeur urbain Dubaï 2040.",
+    "social": "Suivre Buildcaps",
+    "office": "Bureau",
+    "address": "Bureau 1604, Conrad Office Tower, Trade Centre 1, Sheikh Zayed Road, Dubaï, Émirats arabes unis",
+    "phones": "Téléphone",
+    "email": "E-mail",
+    "hours": "Lun–sam, 9 h–19 h (heure de Dubaï)",
+    "orn": "RERA ORN {number}",
+    "explore": "Explorer",
+    "company": "Société",
+    "legal": "Mentions légales",
+    "newsletterTitle": "Le Brief de l’investisseur à Dubaï",
+    "newsletterBody": "Un e-mail par semaine : nouveaux lancements, évolution des prix et données DLD, dans votre langue.",
+    "newsletterPlaceholder": "Votre e-mail",
+    "newsletterCta": "S’abonner",
+    "newsletterSuccess": "C’est fait. Votre premier brief arrive cette semaine.",
+    "newsletterError": "Veuillez saisir une adresse e-mail valide.",
+    "copyright": "© {year} Buildcaps Real Estate LLC. Tous droits réservés.",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d’utilisation",
+    "cookies": "Politique relative aux cookies",
+    "sitemap": "Plan du site"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dubaï, décodé",
+      "titleLine1": "Bâtissez votre patrimoine dans",
+      "titleLine2": "la skyline la plus avantageuse fiscalement.",
+      "subtitle": "Des chiffres transparents, un accès anticipé aux meilleurs lancements de Dubaï et un achat entièrement à distance, accompagné dans votre langue.",
+      "ctaPrimary": "Réserver un appel stratégique gratuit",
+      "ctaSecondary": "Découvrir les biens",
+      "facts": {
+        "tax": "Pas d’impôt sur le revenu locatif",
+        "visa": "Golden Visa de 10 ans dès 2 M AED",
+        "peg": "Dirham indexé sur le dollar américain"
+      },
+      "scroll": "Faites défiler pour explorer"
+    },
+    "search": {
+      "title": "Ask Buildcaps",
+      "placeholder": "Essayez « 2 chambres vue mer à moins de 2,5 M AED, livraison 2027 »",
+      "examples": [
+        "Sur plan près de Dubai Marina, moins de 2 M AED",
+        "Villa familiale près d’une école britannique",
+        "Meilleur rendement locatif, moins de 1,5 M AED",
+        "Éligible au Golden Visa, prêt à emménager"
+      ],
+      "cta": "Rechercher",
+      "filtersToggle": "Utiliser les filtres"
+    },
+    "featured": {
+      "eyebrow": "Sélection du mois",
+      "title": "Biens à la une",
+      "subtitle": "Chaque annonce indique son permis, son plan de paiement et les chiffres qui la sous-tendent.",
+      "cta": "Voir tous les biens"
+    },
+    "opportunities": {
+      "eyebrow": "Opportunités limitées",
+      "title": "Opportunités d’investissement en cours",
+      "subtitle": "Lancements exclusifs, allocations anticipées et offres de partenaires, chacun accompagné de son propre dossier de présentation.",
+      "cta": "Voir toutes les opportunités"
+    },
+    "story": {
+      "eyebrow": "Pourquoi Dubaï",
+      "title": "Une ville conçue pour faire fructifier votre capital",
+      "chapters": [
+        {
+          "year": "2002",
+          "title": "La propriété en pleine propriété s’ouvre au monde",
+          "body": "Les acheteurs étrangers obtiennent des droits de propriété complets dans des zones désignées."
+        },
+        {
+          "year": "2007",
+          "title": "Votre argent, protégé",
+          "body": "La loi sur les comptes séquestres (escrow) isole les paiements des biens sur plan jusqu’à l’atteinte des étapes de construction."
+        },
+        {
+          "year": "2019",
+          "title": "La résidence par l’immobilier",
+          "body": "Les Golden Visas de longue durée relient l’investissement immobilier à la résidence : désormais 10 ans à partir de 2 M AED."
+        },
+        {
+          "year": "2026",
+          "title": "Un refuge mondial",
+          "body": "Foyer de résidents de plus de 200 nationalités, Dubaï attire les investisseurs par sa fiscalité avantageuse, sa stabilité et son art de vivre."
+        },
+        {
+          "year": "2040",
+          "title": "Le plan à venir",
+          "body": "Le Plan directeur d’urbanisme Dubai 2040 vise 5,8 millions d’habitants et double les espaces verts et de loisirs."
+        }
+      ]
+    },
+    "communities": {
+      "eyebrow": "Où investir",
+      "title": "Les quartiers décryptés",
+      "subtitle": "Rendements, prix et art de vivre de chaque secteur, actualisés avec les données du Dubai Land Department.",
+      "drag": "Faites glisser pour explorer",
+      "yield": "Rendement brut estimé : {value}",
+      "avgPrice": "Moy. {value} AED/pi²"
+    },
+    "ai": {
+      "eyebrow": "Buildcaps Intelligence",
+      "title": "Des outils qu’aucun autre courtier de Dubaï ne propose",
+      "subtitle": "Conçus à partir de données de marché en temps réel et d’IA, pour que vous voyiez les chiffres avant de vous engager.",
+      "cta": "Découvrir tous les outils"
+    },
+    "proof": {
+      "eyebrow": "La confiance d’investisseurs du monde entier",
+      "title": "Les chiffres derrière notre nom",
+      "years": "Années dans l’immobilier à Dubaï",
+      "languages": "Langues parlées par nos conseillers",
+      "developers": "Promoteurs partenaires",
+      "reviews": "Note Google",
+      "partnersTitle": "Partenaire officiel des principaux promoteurs de Dubaï",
+      "reviewsTitle": "Ce que disent nos clients",
+      "reviewFrom": "{name}, {country}",
+      "points": [
+        {
+          "title": "Un permis pour chaque annonce",
+          "body": "Chaque annonce porte son permis du Dubai Land Department, que vous pouvez vérifier vous-même."
+        },
+        {
+          "title": "Biens sur plan protégés par séquestre",
+          "body": "Les paiements des biens sur plan sont versés sur des comptes séquestres réglementés et libérés au fil de l’avancement des travaux."
+        },
+        {
+          "title": "Des chiffres sourcés",
+          "body": "Nous présentons prix, rendements et coûts avec leur provenance, à commencer par les données du Dubai Land Department."
+        }
+      ]
+    },
+    "remote": {
+      "eyebrow": "Où que vous soyez dans le monde",
+      "title": "Achetez à Dubaï sans prendre l’avion",
+      "steps": [
+        {
+          "title": "Appel stratégique",
+          "body": "Un appel vidéo dans votre langue pour définir vos objectifs, votre budget et votre calendrier."
+        },
+        {
+          "title": "Sélection sur mesure",
+          "body": "Des biens ciblés, avec des chiffres appuyés par le DLD, des visites en direct par vidéo et les plans d'étage."
+        },
+        {
+          "title": "Réservez votre bien",
+          "body": "Réservation numérique. Les paiements sur plan sont versés directement sur un compte séquestre réglementé."
+        },
+        {
+          "title": "Possédez et percevez",
+          "body": "Titre de propriété délivré par le Dubai Land Department. Nous pouvons gérer, louer ou revendre pour vous."
+        }
+      ],
+      "closing": "Un seul conseiller, dans votre langue, du premier échange au titre de propriété."
+    },
+    "insights": {
+      "eyebrow": "Analyses",
+      "title": "L'intelligence de marché, chaque semaine",
+      "cta": "Lire toutes les analyses"
+    },
+    "finalCta": {
+      "title": "Votre portefeuille à Dubaï commence par une conversation.",
+      "body": "Un appel stratégique gratuit et sans engagement avec un conseiller qui parle votre langue.",
+      "cta": "Réserver mon appel",
+      "secondary": "Ou écrivez-nous sur WhatsApp"
+    }
+  },
+  "properties": {
+    "title": "Biens à vendre à Dubaï",
+    "subtitle": "Programmes sur plan et biens prêts à habiter, vérifiés et présentés avec leurs chiffres réels.",
+    "results": "{count, plural, =0 {Aucun bien trouvé} one {# bien} other {# biens}}",
+    "sort": {
+      "label": "Trier par",
+      "featured": "À la une",
+      "priceAsc": "Prix : du plus bas au plus élevé",
+      "priceDesc": "Prix : du plus élevé au plus bas",
+      "yieldDesc": "Rendement estimé le plus élevé",
+      "handoverAsc": "Livraison la plus proche",
+      "newest": "Plus récents"
+    },
+    "filters": {
+      "title": "Filtres",
+      "status": "Statut",
+      "type": "Type de bien",
+      "community": "Quartier",
+      "developer": "Promoteur",
+      "beds": "Chambres",
+      "budget": "Budget (AED)",
+      "minPrice": "Prix min.",
+      "maxPrice": "Prix max.",
+      "handover": "Année de livraison",
+      "goldenVisa": "Éligible au Golden Visa",
+      "paymentPlan": "Plan de paiement post-livraison",
+      "any": "Indifférent",
+      "reset": "Réinitialiser les filtres",
+      "apply": "{count, plural, one {Afficher # résultat} other {Afficher # résultats}}"
+    },
+    "view": {
+      "grid": "Grille",
+      "map": "Carte"
+    },
+    "empty": {
+      "title": "Rien ne correspond, pour l'instant",
+      "body": "Dites-nous ce que vous recherchez et un conseiller vous enverra des biens hors marché sous 24 heures.",
+      "cta": "Demander des biens hors marché"
+    },
+    "lifestyle": {
+      "title": "Filtres de style de vie",
+      "subtitle": "Trajet, écoles, métro et coût mensuel",
+      "commuteTo": "Trajet vers",
+      "within": "À 8 h, en moins de",
+      "minutes": "{count, plural, one {# minute} other {# minutes}}",
+      "monthly": "Coût mensuel jusqu’à",
+      "school": "École à moins de 1,5 km",
+      "metro": "Métro à moins de 1 km",
+      "note": "Les temps de trajet sont des estimations en heure de pointe en semaine, issues d’OpenStreetMap. Pour un achat, le coût mensuel comprend la mensualité du prêt (prêt résident standard, {years} ans à {rate} %), les charges de copropriété et les services (eau, électricité, etc.) ; pour une location, le loyer et ces mêmes services.",
+      "monthlyHere": "Coût mensuel estimé, tout compris",
+      "rushHour": "Trajet en voiture à 8 h en semaine",
+      "minutesShort": "{count} min",
+      "nearestMetro": "Métro le plus proche",
+      "nearestSchool": "École la plus proche",
+      "km": "{value} km"
+    }
+  },
+  "property": {
+    "overview": "Aperçu",
+    "keyFacts": "L'essentiel",
+    "price": "Prix",
+    "pricePerSqft": "AED {value} par pi²",
+    "type": "Type",
+    "size": "Surface",
+    "bedrooms": "Chambres",
+    "bathrooms": "Salles de bain",
+    "developer": "Promoteur",
+    "community": "Quartier",
+    "handover": "Livraison",
+    "furnishing": "Ameublement",
+    "serviceCharge": "Charges de service",
+    "amenities": "Équipements",
+    "floorPlans": "Plans d'étage",
+    "gallery": "Galerie",
+    "video": "Visite vidéo",
+    "location": "Emplacement et art de vivre",
+    "nearby": "À proximité",
+    "paymentPlan": {
+      "title": "Plan de paiement",
+      "onBooking": "À la réservation",
+      "duringConstruction": "Pendant la construction",
+      "onHandover": "À la livraison",
+      "postHandover": "Après la livraison",
+      "example": "Sur AED {price} : {amount} à la réservation"
+    },
+    "numbers": {
+      "title": "Les chiffres",
+      "estYield": "Rendement brut estimé",
+      "estRent": "Loyer annuel estimé",
+      "dldFee": "Frais DLD (4 %)",
+      "totalCost": "Coût total d’acquisition estimé",
+      "goldenVisa": "Éligible au Golden Visa",
+      "basis": "Sur la base des transactions DLD et des données de l’indice des loyers pour {community}."
+    },
+    "advisor": {
+      "title": "Votre conseiller pour ce bien",
+      "speaks": "Langues parlées : {languages}",
+      "responds": "Répond généralement sous {time}"
+    },
+    "compliance": {
+      "title": "Vérifiez cette annonce",
+      "body": "Chaque annonce Buildcaps est accompagnée d’un permis publicitaire du Dubai Land Department. Scannez le code pour le vérifier."
+    },
+    "similar": "Biens similaires",
+    "enquire": "Se renseigner sur ce bien",
+    "downloadBrochure": "Télécharger la brochure",
+    "intelligence": "Buildcaps Intelligence",
+    "furnishingOptions": {
+      "furnished": "Meublé",
+      "unfurnished": "Non meublé",
+      "partly": "Partiellement meublé"
+    },
+    "keywordList": {
+      "seaView": "Vue mer",
+      "highFloor": "Étage élevé",
+      "cornerUnit": "Appartement d’angle",
+      "skylineView": "Vue sur la skyline",
+      "postHandoverPlan": "Plan de paiement post-livraison",
+      "golfView": "Vue sur le golf",
+      "privatePool": "Piscine privée",
+      "furnished": "Meublé",
+      "highYield": "Rendement élevé",
+      "fountainView": "Vue sur les fontaines",
+      "tenanted": "Loué",
+      "goldenVisaEligible": "Éligible au Golden Visa",
+      "beachfront": "Front de plage",
+      "canalView": "Vue sur le canal",
+      "nearMetro": "Proche du métro",
+      "garden": "Jardin",
+      "familyHome": "Résidence familiale",
+      "terrace": "Terrasse privée",
+      "parkView": "Vue sur le parc",
+      "creekView": "Vue sur la crique"
+    },
+    "amenityList": {
+      "pool": "Piscine",
+      "gym": "Salle de sport",
+      "concierge": "Conciergerie",
+      "parking": "Parking couvert",
+      "kidsPlay": "Aire de jeux pour enfants",
+      "security": "Sécurité 24 h/24",
+      "privatePool": "Piscine privée",
+      "garden": "Jardin privé",
+      "maidsRoom": "Chambre de service",
+      "golfView": "Vue sur le parcours de golf",
+      "privateBeach": "Plage privée"
+    },
+    "enquiryPrefill": "Je suis intéressé(e) par {property}. Merci de m’envoyer plus de détails.",
+    "voiceNote": {
+      "cta": "Écouter la présentation de {name}",
+      "preparing": "Préparation du message vocal…",
+      "title": "Message vocal de {name}",
+      "transcript": "Lire la transcription",
+      "note": "Rédigé avec l’IA à partir des informations de cette annonce et lu par la voix de votre navigateur. Votre conseiller confirmera chaque point lors d’un appel.",
+      "unavailable": "Le message vocal n’est pas disponible pour le moment. Votre conseiller peut vous en envoyer un sur WhatsApp."
+    },
+    "moodboard": {
+      "title": "Imaginer l’aménagement de ce bien",
+      "intro": "Choisissez un style et un budget, et nous vous proposerons une orientation d’aménagement pour cette configuration : couleurs, matériaux, idées par pièce et liste d’achats indicative.",
+      "style": "Style",
+      "styles": {
+        "modernArabic": "Arabe moderne",
+        "japandi": "Japandi",
+        "coastal": "Bord de mer",
+        "contemporaryLuxe": "Luxe contemporain",
+        "scandinavian": "Scandinave",
+        "midCentury": "Années 1950-60"
+      },
+      "budget": "Budget",
+      "budgets": {
+        "essential": "Essentiel",
+        "comfort": "Confort",
+        "premium": "Premium"
+      },
+      "purpose": "Aménager pour",
+      "purposes": {
+        "live": "Y habiter",
+        "rent": "Le louer"
+      },
+      "create": "Créer mon moodboard",
+      "creating": "Création de votre moodboard…",
+      "again": "Essayer un autre style",
+      "materials": "Matériaux et finitions",
+      "pieces": "Pièces maîtresses",
+      "total": "Pièces maîtresses, total indicatif",
+      "tips": "Conseils",
+      "disclaimer": "Une suggestion d’aménagement rédigée avec l’IA. Les prix sont des prix de détail indicatifs à Dubaï et varient selon les fournisseurs. Renseignez-vous auprès de votre conseiller sur nos partenaires d’ameublement et les formules clés en main.",
+      "unavailable": "Le moodboard n’est pas disponible pour le moment. Veuillez réessayer dans quelques minutes."
+    }
+  },
+  "opportunities": {
+    "title": "Opportunités d’investissement",
+    "subtitle": "Lancements exclusifs, allocations en avant-première et offres de partenaires. Chacune donne accès à un dossier de présentation dédié.",
+    "open": "Consulter le dossier",
+    "endsOn": "Jusqu’au {date}",
+    "keyNumber": "Chiffre clé",
+    "empty": "De nouvelles opportunités s’ouvrent chaque mois. Rejoignez l’Investor Brief pour être informé en premier.",
+    "disclaimer": "Les opportunités renvoient vers des pages de présentation dédiées. Les disponibilités et conditions sont fixées par les promoteurs et peuvent évoluer."
+  },
+  "offPlan": {
+    "title": "Immobilier sur plan à Dubaï",
+    "subtitle": "Achetez aux prix de lancement, réglez en plusieurs échéances et devenez propriétaire d’un bien neuf à la livraison.",
+    "why": {
+      "title": "Pourquoi les investisseurs choisissent le sur plan",
+      "items": [
+        {
+          "title": "Prix de lancement",
+          "body": "Les premiers acquéreurs obtiennent généralement le prix au pied carré le plus bas du projet."
+        },
+        {
+          "title": "Paiements échelonnés",
+          "body": "Réglez pendant la période de construction, et parfois plusieurs années après la livraison."
+        },
+        {
+          "title": "Fonds protégés",
+          "body": "Les paiements sont versés sur un compte séquestre réglementé, libérés uniquement au fil de l’avancement des travaux."
+        },
+        {
+          "title": "Un actif neuf",
+          "body": "Design moderne, nouveaux équipements et garanties du promoteur dès le premier jour."
+        }
+      ]
+    },
+    "launches": {
+      "title": "Derniers lancements",
+      "subtitle": "Parcourez les projets les plus demandés de la saison."
+    },
+    "risk": {
+      "title": "Le sur plan, en toute lucidité",
+      "body": "Les retards existent : à Dubaï, le taux de livraison dans les délais était de 64 % en 2025. C’est pourquoi nous présentons le historique de livraison de chaque promoteur ainsi que les preuves d’avancement du chantier pour chaque projet que nous commercialisons.",
+      "source": "Source : Knight Frank, 2025"
+    },
+    "project": {
+      "launchPrice": "Prix de lancement",
+      "handover": "Livraison",
+      "unitTypes": "Types de biens",
+      "developer": "Promoteur",
+      "paymentPlan": "Plan de paiement",
+      "progress": "Avancement des travaux",
+      "progressValue": "{value} réalisé",
+      "escrow": "Compte séquestre enregistré",
+      "location": "Emplacement",
+      "register": "Recevoir le dossier complet du projet",
+      "registerBody": "Plans, disponibilités et plan de paiement, envoyés dans votre langue par un conseiller.",
+      "aboutDeveloper": "À propos de {name}",
+      "units": "Biens disponibles"
+    }
+  },
+  "communities": {
+    "title": "Les quartiers de Dubaï",
+    "subtitle": "Où acheter, à quel prix et pour quel rendement : quartier par quartier, avec des données réelles.",
+    "overview": "Vue d’ensemble",
+    "prices": "Prix et rendements",
+    "schools": "Écoles",
+    "lifestyle": "Art de vivre",
+    "transport": "Déplacements",
+    "listings": "Biens à {name}",
+    "dataNote": "Chiffres issus des données ouvertes du Dubai Land Department, actualisées quotidiennement.",
+    "guideTitle": "{name} : guide du quartier pour investisseurs",
+    "avgPricePerSqft": "Prix moyen au pied carré",
+    "estYield": "Rendement brut estimé",
+    "priceChange": "Évolution des prix sur 12 mois"
+  },
+  "developers": {
+    "title": "Les promoteurs avec lesquels nous travaillons",
+    "subtitle": "Parcours, projets en cours et historique de livraison des principaux promoteurs de Dubaï.",
+    "projects": "{count, plural, one {# projet} other {# projets}}",
+    "delivered": "Projets livrés",
+    "onTime": "Livraison dans les délais",
+    "promisesKept": "Engagements tenus",
+    "liveProjects": "Projets en cours",
+    "founded": "Fondé en {year}",
+    "metricsNote": "Les chiffres de performance sont publiés après vérification auprès des données du registre DLD et des procès-verbaux de livraison.",
+    "listings": "Biens {name} que nous proposons"
+  },
+  "invest": {
+    "title": "Pourquoi investir à Dubaï",
+    "subtitle": "Six raisons pour lesquelles les investisseurs du monde entier orientent leurs capitaux vers Dubaï, et comment s’y prendre avec méthode.",
+    "reasons": [
+      {
+        "title": "Efficacité fiscale",
+        "body": "Aucun impôt sur le revenu des personnes physiques sur les loyers, et aucun impôt sur les plus-values pour les particuliers."
+      },
+      {
+        "title": "Des rendements locatifs solides",
+        "body": "Des rendements bruts généralement compris entre 6 et 8 %, selon le quartier et le type de bien."
+      },
+      {
+        "title": "Une monnaie stable",
+        "body": "Le dirham est arrimé au dollar américain au taux de 3,6725 depuis 1997."
+      },
+      {
+        "title": "La résidence par l’immobilier",
+        "body": "Un Golden Visa renouvelable de 10 ans pour les investissements immobiliers à partir de 2 M AED."
+      },
+      {
+        "title": "Protection de l’investisseur",
+        "body": "Un cadre réglementaire RERA, des paiements sur plan sécurisés par compte séquestre et un enregistrement DLD transparent."
+      },
+      {
+        "title": "Une ville qui a un cap",
+        "body": "Le plan directeur urbain Dubai 2040 encadre la croissance de la population, des transports et des espaces verts."
+      }
+    ],
+    "goldenVisa": {
+      "title": "Le Golden Visa par l’immobilier",
+      "body": "Investissez 2 M AED ou plus dans l’immobilier à Dubaï et vous pourriez prétendre à un visa de résidence renouvelable de 10 ans, pour vous et votre famille.",
+      "cta": "Vérifier mon éligibilité"
+    },
+    "remote": {
+      "title": "Acheter depuis l’étranger",
+      "body": "Visites en visioconférence, réservations numériques et procuration : vous pouvez finaliser votre achat sans avoir à vous déplacer."
+    },
+    "financing": {
+      "title": "Financement",
+      "body": "De nombreuses banques des Émirats prêtent aux non-résidents, généralement jusqu’à 50 à 60 % de la valeur du bien. Nous vous présentons des partenaires hypothécaires de confiance.",
+      "cta": "Estimer mon prêt immobilier"
+    },
+    "disclaimer": "Informations générales uniquement. Les règles peuvent évoluer ; votre conseiller vous confirme les exigences en vigueur selon votre situation.",
+    "eyebrow": "Investir",
+    "allFaqs": "Voir toutes les questions fréquentes"
+  },
+  "tools": {
+    "title": "Outils IA et investisseur",
+    "subtitle": "Voyez les chiffres avant de vous engager, dans votre langue et votre devise.",
+    "groups": {
+      "calculators": "Calculateurs",
+      "ai": "Buildcaps Intelligence"
+    },
+    "calculators": {
+      "roi": {
+        "title": "Calculateur de rentabilité",
+        "body": "Estimez le rendement locatif et le retour total de n’importe quel bien."
+      },
+      "mortgage": {
+        "title": "Calculateur de prêt immobilier",
+        "body": "Mensualités pour résidents et non-résidents."
+      },
+      "paymentPlan": {
+        "title": "Simulateur d’échéancier de paiement",
+        "body": "Voyez précisément ce que vous payez, et quand, pour tout programme sur plan."
+      },
+      "fees": {
+        "title": "Frais d’acquisition",
+        "body": "Frais DLD, frais d’enregistrement et autres coûts réunis en un seul détail."
+      },
+      "goldenVisa": {
+        "title": "Test Golden Visa",
+        "body": "Découvrez en 30 secondes si votre investissement est éligible."
+      },
+      "currency": {
+        "title": "Convertisseur de devises",
+        "body": "Prix en AED, USD, GBP, EUR, INR, PKR, RUB et CNY."
+      }
+    },
+    "aiTools": {
+      "estimate": {
+        "title": "Buildcaps Estimate",
+        "body": "Une fourchette de valeur instantanée pour tout bien à Dubaï, établie à partir des transactions DLD."
+      },
+      "dataRoom": {
+        "title": "Dubai Data Room",
+        "body": "Cartes des prix, transactions et analyses par quartier, mises à jour quotidiennement."
+      },
+      "matchMe": {
+        "title": "Match Me",
+        "body": "Six questions. Les biens qui vous correspondent le mieux, chacun avec ses raisons."
+      },
+      "wealthTwin": {
+        "title": "Wealth Twin",
+        "body": "Votre patrimoine dans 5, 10 et 20 ans : Dubaï ou placer votre argent dans votre pays."
+      },
+      "regretRadar": {
+        "title": "Regret Radar",
+        "body": "Ce que les acheteurs précédents ont gagné ici, et l’option que vous risquez le moins de regretter."
+      },
+      "portfolioArchitect": {
+        "title": "Portfolio Architect",
+        "body": "Répartissez votre budget en un portefeuille diversifié à Dubaï, entre croissance et revenus."
+      },
+      "dayInYourLife": {
+        "title": "Day in Your Life",
+        "body": "Vos vrais trajets, le chemin de l’école et votre week-end depuis n’importe quelle adresse, racontés dans votre langue."
+      },
+      "familyRoom": {
+        "title": "Family Decision Room",
+        "body": "Décidez ensemble depuis différents pays, avec traduction en direct et une présélection partagée."
+      },
+      "promiseLedger": {
+        "title": "Promise Ledger",
+        "body": "Ce que les promoteurs promettaient dans leurs brochures, et ce qu’ils ont réellement livré."
+      },
+      "handoverScore": {
+        "title": "Handover Truth Score",
+        "body": "La probabilité qu’un projet sur plan soit livré à temps, d’après l’imagerie satellite et les données DLD."
+      },
+      "ghostTenant": {
+        "title": "Marché Ghost Tenant",
+        "body": "Un marché simulé de locataires et d'acheteurs anticipe votre loyer, votre taux de vacance et le meilleur moment pour vendre."
+      },
+      "futureView": {
+        "title": "Vue Future Skyline",
+        "body": "Votre vue aujourd'hui, et dans cinq ans, une fois les tours annoncées construites."
+      },
+      "buyerBloc": {
+        "title": "Buyer Bloc",
+        "body": "Rejoignez des investisseurs du monde entier pour obtenir un tarif de groupe sur un nouveau lancement."
+      }
+    },
+    "try": "Essayer",
+    "aiIntro": "Conçu à partir des données du Dubai Land Department, d'OpenStreetMap et de nos propres modèles, avec Claude qui explique chaque résultat dans votre langue.",
+    "status": {
+      "live": "Disponible",
+      "beta": "Bêta",
+      "pilot": "Pilote"
+    }
+  },
+  "services": {
+    "title": "Nos services",
+    "howItWorks": "Comment ça marche",
+    "buy": {
+      "title": "Acheter un bien à Dubaï",
+      "promise": "Une présélection soignée, des chiffres sincères et un achat entièrement accompagné, du premier échange à l'acte de propriété.",
+      "steps": [
+        {
+          "title": "Entretien stratégique",
+          "body": "Nous définissons vos objectifs, votre budget, votre calendrier et les quartiers qui leur correspondent."
+        },
+        {
+          "title": "Présélection sur mesure",
+          "body": "Des biens adaptés à votre profil, avec permis, plans de paiement et les chiffres qui les sous-tendent."
+        },
+        {
+          "title": "Visites, sur place ou en visio",
+          "body": "Visites en direct par vidéo pour les acheteurs à l'étranger, ou nous vous retrouvons sur place."
+        },
+        {
+          "title": "Achat et remise des clés",
+          "body": "Réservation, contrats, enregistrement DLD et remise des clés, nous nous occupons de tout."
+        }
+      ]
+    },
+    "sell": {
+      "title": "Vendre votre bien",
+      "promise": "Une estimation fondée sur les données du DLD, une audience d'acheteurs mondiale en 10 langues et une vente gérée de bout en bout.",
+      "steps": [
+        {
+          "title": "Estimation à partir des données du DLD",
+          "body": "Une fourchette de prix établie d'après les transactions récentes de votre immeuble et de votre quartier."
+        },
+        {
+          "title": "Commercialisation en 10 langues",
+          "body": "Photos professionnelles, annonce dûment autorisée et prospection auprès d'acheteurs du monde entier."
+        },
+        {
+          "title": "Visites qualifiées",
+          "body": "Nous sélectionnons les acheteurs et organisons les visites, afin que vous ne rencontriez que des offres sérieuses."
+        },
+        {
+          "title": "Transfert et paiement",
+          "body": "Nous gérons le NOC, le transfert au bureau du trustee et le paiement final."
+        }
+      ]
+    },
+    "rent": {
+      "title": "Louer à Dubaï",
+      "promise": "Des logements vérifiés, des conditions transparentes et un emménagement pris en charge.",
+      "steps": [
+        {
+          "title": "Dites-nous ce que vous cherchez",
+          "body": "Budget, quartier, date d'emménagement et critères indispensables, dans votre langue."
+        },
+        {
+          "title": "Logements vérifiés",
+          "body": "Une sélection de logements avec permis et coûts transparents."
+        },
+        {
+          "title": "Contrat et Ejari",
+          "body": "Nous préparons le contrat de location et l'enregistrons auprès d'Ejari."
+        },
+        {
+          "title": "Emménagement",
+          "body": "Raccordement des services (eau, électricité) et état des lieux, organisés pour vous."
+        }
+      ]
+    },
+    "propertyManagement": {
+      "title": "Gestion locative",
+      "promise": "Recherche de locataires, encaissement des loyers et entretien assurés, avec un reporting mensuel clair.",
+      "steps": [
+        {
+          "title": "Prise en charge",
+          "body": "Nous inspectons le bien, convenons du loyer et le préparons pour la mise en location."
+        },
+        {
+          "title": "Recherche de locataires",
+          "body": "Commercialisation, visites et vérification des locataires, avec enregistrement Ejari."
+        },
+        {
+          "title": "Loyers et entretien",
+          "body": "Nous encaissons les loyers, gérons les réparations et vous tenons informé."
+        },
+        {
+          "title": "Reporting mensuel",
+          "body": "Un relevé clair des revenus, des charges et de l'état du bien."
+        }
+      ]
+    },
+    "mortgage": {
+      "title": "Financement immobilier",
+      "promise": "Comparez les offres des banques des Émirats pour résidents et non-résidents, sans tracas administratifs.",
+      "steps": [
+        {
+          "title": "Évaluez votre capacité d'emprunt",
+          "body": "Pour résidents et non-résidents, selon vos revenus et le bien visé."
+        },
+        {
+          "title": "Comparez les offres",
+          "body": "Taux et conditions de plusieurs banques des Émirats, côte à côte."
+        },
+        {
+          "title": "Accord de principe",
+          "body": "Nous préparons votre dossier et vous aidons à obtenir une lettre de pré-approbation."
+        },
+        {
+          "title": "Finalisation",
+          "body": "Évaluation, offre définitive et enregistrement de l’hypothèque auprès du DLD."
+        }
+      ]
+    },
+    "valuation": {
+      "title": "Estimation gratuite de votre bien",
+      "promise": "Découvrez la valeur réelle de votre bien, fondée sur les transactions récentes du DLD, sous 24 heures.",
+      "steps": [
+        {
+          "title": "Quelques informations",
+          "body": "Immeuble, surface du bien, vue et état. Deux minutes suffisent."
+        },
+        {
+          "title": "Une analyse fondée sur les données",
+          "body": "Nous comparons les transactions récentes du DLD et les annonces actuelles à proximité."
+        },
+        {
+          "title": "Votre estimation en 24 heures",
+          "body": "Une fourchette de valeur accompagnée des éléments qui la justifient, dans votre langue."
+        },
+        {
+          "title": "Et ensuite, si vous le souhaitez",
+          "body": "Vendre, louer ou refinancer, sans aucun engagement."
+        }
+      ]
+    },
+    "subtitle": "Acheter, vendre, louer et financer un bien à Dubaï, avec une seule équipe à vos côtés.",
+    "enquire": "Interrogez-nous sur ce service"
+  },
+  "about": {
+    "title": "À propos de Buildcaps",
+    "intro": "Depuis plus de 15 ans, Buildcaps Real Estate LLC accompagne des investisseurs et des familles du monde entier dans leur projet d’installation à Dubaï. Nous sommes une équipe de conseillers et d’analystes basée à Dubaï, convaincue que les meilleures décisions immobilières reposent sur des chiffres clairs, des conseils honnêtes et un partenaire qui agit dans votre intérêt.",
+    "mission": {
+      "title": "Notre mission",
+      "body": "Ouvrir le marché immobilier de Dubaï au monde grâce à des plans d’investissement parfaitement transparents."
+    },
+    "vision": {
+      "title": "Notre vision",
+      "body": "Devenir la porte d’entrée la plus fiable vers les plus beaux projets de Dubaï, et faire partie de l’histoire de croissance de la ville."
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "items": [
+        {
+          "title": "L’humain d’abord",
+          "body": "L’immobilier, c’est avant tout des personnes, pas seulement des biens."
+        },
+        {
+          "title": "L’excellence, toujours",
+          "body": "Nous fixons la référence en matière de service, puis nous la relevons."
+        },
+        {
+          "title": "Innovation et croissance",
+          "body": "Nous évoluons avec le marché pour que nos clients gardent une longueur d’avance."
+        }
+      ]
+    },
+    "ceo": {
+      "title": "Un message de notre CEO",
+      "name": "Priyank Shah",
+      "role": "CEO, Buildcaps Real Estate LLC",
+      "letter": [
+        "Bienvenue chez Buildcaps, où nous transformons les aspirations en réussites grâce à la confiance, à l’excellence et à l’innovation.",
+        "Dubaï est une ville aux possibilités infinies. Chez Buildcaps, nous allons au-delà des transactions : nous créons des opportunités, nous bâtissons du patrimoine et nous nouons des relations durables.",
+        "Que vous achetiez, vendiez, investissiez ou louiez, Buildcaps est votre partenaire de confiance. Avec nous, vous ne faites pas simplement un pas de plus. Vous faites le bon."
+      ]
+    },
+    "salesDirector": {
+      "title": "Un message de notre Directeur des ventes",
+      "name": "Ashish Sharma",
+      "role": "Directeur des ventes, Buildcaps Real Estate",
+      "letter": [
+        "La réussite immobilière ne tient jamais uniquement au bien. Elle tient à la vision, au bon moment et à la bonne stratégie.",
+        "J’apporte une approche orientée résultats, une expérience des marchés internationaux et une expertise approfondie de l’immobilier de luxe et de la gestion de portefeuille. Je sais ce qui crée réellement de la valeur dans l’économie dynamique de Dubaï.",
+        "Notre mission est simple : vous donner la clarté et la confiance nécessaires pour prendre des décisions audacieuses et gratifiantes. Chez Buildcaps, nous ne suivons pas les tendances. Nous les définissons."
+      ]
+    },
+    "eyebrow": "Notre histoire",
+    "meetTeam": "Découvrir toute l’équipe"
+  },
+  "team": {
+    "title": "Rencontrez vos conseillers",
+    "subtitle": "Des experts multilingues des quartiers, des promoteurs et du marché sur plan de Dubaï.",
+    "roles": {
+      "propertyAdvisor": "Conseiller immobilier",
+      "seniorPropertyAdvisor": "Conseiller immobilier senior",
+      "salesDirector": "Directeur des ventes",
+      "ceo": "Directeur général"
+    },
+    "speaks": "Langues parlées",
+    "specialties": "Spécialités",
+    "brn": "BRN {number}",
+    "score": {
+      "title": "Score du conseiller",
+      "badge": "Score {score}",
+      "outOf": "sur 100",
+      "how": "Calculé uniquement à partir des données de Buildcaps : avis clients vérifiés, rapidité avec laquelle {name} répond aux nouvelles demandes, taux de rendez-vous tenus comme convenu et transactions finalisées. Mis à jour quotidiennement.",
+      "rating": "Note des clients",
+      "reviewCount": "{count, plural, one {# avis vérifié} other {# avis vérifiés}}",
+      "response": "Délai habituel de première réponse",
+      "minutes": "{count, plural, one {# minute} other {# minutes}}",
+      "hours": "{count, plural, one {# heure} other {# heures}}",
+      "showRate": "Rendez-vous tenus comme convenu",
+      "meetings": "Rendez-vous au cours des 12 derniers mois",
+      "strengths": {
+        "topRated": "Très bien noté par les clients",
+        "fastResponse": "Répond rapidement",
+        "reliable": "Fiable pour les rendez-vous",
+        "dealMaker": "Historique de transactions éprouvé",
+        "multilingual": "Parle trois langues ou plus"
+      },
+      "reviewsTitle": "Avis vérifiés",
+      "verified": "client vérifié",
+      "client": "Client"
+    },
+    "bookWith": "Prendre rendez-vous avec {name}",
+    "listings": "Les biens de {name}",
+    "specialtyList": {
+      "investmentStrategy": "Stratégie d’investissement",
+      "offPlan": "Vente sur plan",
+      "luxury": "Résidences de luxe",
+      "portfolio": "Planification de portefeuille",
+      "waterfront": "Résidences en bord de mer",
+      "investment": "Immobilier d’investissement",
+      "townhouses": "Maisons de ville",
+      "highYield": "Biens à haut rendement",
+      "goldenVisa": "Golden Visa",
+      "familyHomes": "Résidences familiales",
+      "readyHomes": "Biens prêts à habiter",
+      "valuation": "Évaluations"
+    },
+    "bookBody": "Choisissez le créneau qui vous convient : visioconférence, téléphone, WhatsApp ou rendez-vous à notre bureau.",
+    "responseTime": "Délai de réponse"
+  },
+  "awards": {
+    "title": "Distinctions et reconnaissances",
+    "subtitle": "Reconnus par les principaux promoteurs de Dubaï et les organismes du secteur.",
+    "pending": "Nous rassemblons nos distinctions et reconnaissances, accompagnées de leurs certificats. Elles seront bientôt présentées ici."
+  },
+  "careers": {
+    "title": "Construisez votre carrière avec Buildcaps",
+    "subtitle": "Rejoignez une équipe multilingue qui s’appuie sur les données et l’IA pour accompagner des investisseurs du monde entier.",
+    "why": "Pourquoi Buildcaps",
+    "openRoles": "Postes ouverts",
+    "noRoles": "Aucun poste n’est ouvert pour le moment. Envoyez-nous votre CV et nous vous contacterons dès qu’une opportunité adaptée se présentera.",
+    "apply": "Postuler",
+    "reasons": [
+      {
+        "title": "Une clientèle internationale",
+        "body": "Conseillez des investisseurs du monde entier, dans les langues que vous parlez."
+      },
+      {
+        "title": "Des outils qui font le gros du travail",
+        "body": "Données, IA et CRM moderne : votre temps est consacré à vos clients."
+      },
+      {
+        "title": "De réelles perspectives d’évolution",
+        "body": "Formation, accompagnement pour la certification RERA et un parcours clair vers les postes seniors."
+      }
+    ],
+    "openApplication": "Vous ne voyez pas votre poste ? Envoyez votre CV à",
+    "requirements": "Ce que vous apporterez"
+  },
+  "faq": {
+    "title": "Questions fréquentes",
+    "subtitle": "Des réponses claires aux questions que les investisseurs nous posent le plus souvent.",
+    "stillQuestions": "Vous avez encore des questions ?",
+    "items": [
+      {
+        "q": "Un étranger peut-il acheter un bien immobilier à Dubaï ?",
+        "a": "Oui. Les ressortissants étrangers peuvent acquérir un bien en pleine propriété (freehold) dans les zones désignées de Dubaï. La propriété est enregistrée auprès du Dubai Land Department, et un titre de propriété est établi à votre nom."
+      },
+      {
+        "q": "Puis-je acheter sans me rendre à Dubaï ?",
+        "a": "Oui. Nous organisons des visites en visioconférence, vous transmettons des documents vérifiés et préparons des réservations numériques. La signature peut se faire à distance ou par procuration. Votre conseiller coordonne chaque étape jusqu’au titre de propriété."
+      },
+      {
+        "q": "Acheter sur plan est-il sûr ?",
+        "a": "Les paiements pour les biens sur plan sont versés sur des comptes séquestres réglementés, puis libérés au promoteur à mesure de l’avancement du chantier. Chaque projet doit être enregistré et chaque annonce doit comporter un permis DLD. Des retards restent possibles ; c’est pourquoi nous vous présentons l’historique de livraison de chaque promoteur avant tout engagement."
+      },
+      {
+        "q": "Quels sont les coûts d’un achat ?",
+        "a": "Le principal coût est la taxe de transfert du Dubai Land Department, soit 4 % du prix, à laquelle s’ajoutent des frais d’enregistrement et de dossier. Les achats en revente impliquent généralement des honoraires d’agence, et un prêt immobilier entraîne des frais d’enregistrement et des frais bancaires. Votre conseiller vous remet un détail précis pour chaque bien."
+      },
+      {
+        "q": "Comment fonctionne le Golden Visa ?",
+        "a": "Un investissement immobilier de 2 M AED ou plus à Dubaï peut vous ouvrir droit à un visa de résidence de 10 ans, renouvelable et pouvant inclure votre famille. Des conditions s’appliquent aux biens sur plan et aux biens financés par un prêt ; nous vérifions gratuitement votre éligibilité."
+      },
+      {
+        "q": "Les revenus immobiliers sont-ils imposés ?",
+        "a": "Les Émirats arabes unis ne prélèvent ni impôt sur le revenu des particuliers sur les loyers, ni impôt sur les plus-values pour les personnes physiques. Vous pouvez néanmoins être imposable dans votre pays de résidence ; nous vous recommandons de consulter un conseiller fiscal sur place."
+      },
+      {
+        "q": "Un non-résident peut-il obtenir un prêt immobilier ?",
+        "a": "Oui. De nombreuses banques des Émirats accordent des prêts aux non-résidents, généralement jusqu’à 50 à 60 % de la valeur du bien, sous réserve d’une étude de vos revenus et de votre solvabilité. Nous vous mettons en relation avec des partenaires de financement de confiance."
+      },
+      {
+        "q": "Quel rendement locatif puis-je espérer ?",
+        "a": "Les rendements bruts habituels à Dubaï se situent entre 6 % et 8 % environ, selon le quartier, le type de bien et le mode de location. Chaque annonce Buildcaps affiche une estimation fondée sur les données du Dubai Land Department."
+      },
+      {
+        "q": "Qu’est-ce qu’un plan de paiement ?",
+        "a": "Les projets sur plan se règlent par étapes. Par exemple, un plan 20/55/25 prévoit 20 % à la réservation, 55 % pendant la construction et 25 % à la livraison. Certains promoteurs proposent des plans post-livraison, qui étalent les paiements sur plusieurs années après la remise des clés."
+      },
+      {
+        "q": "Puis-je revendre avant la livraison ?",
+        "a": "En général, oui. La plupart des promoteurs autorisent la revente (cession) d’un bien sur plan une fois qu’un pourcentage défini du prix a été réglé. Les règles varient selon le promoteur, et nous les vérifions avant votre achat."
+      },
+      {
+        "q": "Comment vérifier qu’une annonce est authentique ?",
+        "a": "Toute annonce immobilière légitime à Dubaï comporte un numéro de permis Trakheesi et un code QR délivrés par le Dubai Land Department. Scannez-le pour confirmer l’annonce et le courtier. Chaque annonce Buildcaps affiche son permis."
+      },
+      {
+        "q": "Qui gère mon bien après l’achat ?",
+        "a": "Notre service de gestion locative peut trouver des locataires, encaisser les loyers et assurer l’entretien. Nous pouvons aussi vous mettre en relation avec un opérateur de location courte durée de confiance."
+      }
+    ]
+  },
+  "insights": {
+    "title": "Analyses",
+    "subtitle": "Données de marché, guides et analyses pour les investisseurs immobiliers à Dubaï.",
+    "categories": {
+      "all": "Tous",
+      "market": "Actualités du marché",
+      "guides": "Guides d’achat",
+      "offPlan": "Sur plan",
+      "communities": "Quartiers",
+      "news": "Actualités"
+    },
+    "readTime": "{minutes} min de lecture",
+    "by": "Par {author}",
+    "related": "Analyses associées",
+    "empty": "Aucun article dans cette catégorie pour le moment."
+  },
+  "reports": {
+    "title": "Rapports de marché",
+    "subtitle": "Des rapports trimestriels sur le marché de Dubaï, fondés sur les données du Dubai Land Department.",
+    "download": "Recevoir le rapport",
+    "gateTitle": "Où souhaitez-vous recevoir votre rapport ?",
+    "gateBody": "Saisissez votre adresse e-mail et nous vous enverrons le rapport complet dans votre langue."
+  },
+  "leadMagnet": {
+    "eyebrow": "Guide gratuit",
+    "title": "Le Guide de l’investisseur à Dubaï 2026",
+    "body": "Frais, fiscalité, règles du Golden Visa, meilleurs quartiers en matière de rendement et liste de contrôle pas à pas pour acheter à distance, dans votre langue.",
+    "email": "Adresse e-mail",
+    "country": "Pays de résidence",
+    "cta": "Recevoir le guide",
+    "success": "Consultez votre boîte de réception. Votre guide est en route.",
+    "privacy": "Vous recevrez également l’Investor Brief hebdomadaire. Désinscription possible à tout moment.",
+    "error": "Veuillez saisir une adresse e-mail valide.",
+    "ready": "Votre exemplaire est prêt.",
+    "downloadNow": "Télécharger le PDF"
+  },
+  "booking": {
+    "title": "Réservez votre appel stratégique gratuit",
+    "subtitle": "Choisissez le créneau qui vous convient. Nous vous mettrons en relation avec un conseiller qui parle votre langue.",
+    "progress": "Étape {current} sur {total}",
+    "steps": {
+      "purpose": {
+        "title": "En quoi pouvons-nous vous aider ?",
+        "options": {
+          "strategy": {
+            "label": "Appel de stratégie d’investissement",
+            "body": "Objectifs, budget et plan d’action pour votre portefeuille à Dubaï."
+          },
+          "viewing": {
+            "label": "Visite d’un bien",
+            "body": "Sur place ou en visio en direct."
+          },
+          "valuation": {
+            "label": "Estimation d’un bien",
+            "body": "La valeur actuelle de votre bien à Dubaï."
+          },
+          "mortgage": {
+            "label": "Conseil en financement immobilier",
+            "body": "Solutions de financement pour résidents et non-résidents."
+          },
+          "goldenVisa": {
+            "label": "Conseil Golden Visa",
+            "body": "Conditions d’éligibilité et démarches vers la résidence."
+          }
+        }
+      },
+      "context": {
+        "title": "Dites-nous-en un peu plus",
+        "property": "Bien qui vous intéresse",
+        "budget": "Budget",
+        "timeline": "Quand envisagez-vous d’acheter ?",
+        "timelines": {
+          "now": "Dans les 3 mois",
+          "soon": "3 à 6 mois",
+          "later": "6 à 12 mois",
+          "exploring": "Simple exploration"
+        },
+        "budgets": {
+          "under1m": "Moins de 1 M AED",
+          "1to2m": "1 à 2 M AED",
+          "2to5m": "2 à 5 M AED",
+          "over5m": "Plus de 5 M AED"
+        }
+      },
+      "mode": {
+        "title": "Comment souhaitez-vous nous rencontrer ?",
+        "options": {
+          "video": {
+            "label": "Appel vidéo",
+            "body": "Lien Google Meet envoyé immédiatement."
+          },
+          "office": {
+            "label": "À notre bureau",
+            "body": "Conrad Office Tower, Sheikh Zayed Road."
+          },
+          "onsite": {
+            "label": "Sur place, au bien",
+            "body": "Nous vous retrouvons devant l’immeuble."
+          },
+          "whatsapp": {
+            "label": "Appel WhatsApp",
+            "body": "Appel vocal ou vidéo sur WhatsApp."
+          }
+        }
+      },
+      "advisor": {
+        "title": "Choisissez votre conseiller",
+        "bestMatch": "Le meilleur choix pour vous",
+        "bestMatchBody": "Nous sélectionnerons le conseiller disponible qui parle votre langue et connaît le mieux ce marché.",
+        "orChoose": "Ou choisissez un conseiller"
+      },
+      "time": {
+        "title": "Choisissez une date et une heure",
+        "timezone": "Horaires affichés en {timezone}",
+        "dubaiTime": "{time} à Dubaï",
+        "noSlots": "Il ne reste aucun créneau ce jour-là. Veuillez choisir une autre date.",
+        "change": "Changer de fuseau horaire"
+      },
+      "details": {
+        "title": "Vos coordonnées",
+        "name": "Nom et prénom",
+        "email": "E-mail",
+        "phone": "Téléphone (WhatsApp de préférence)",
+        "language": "Langue souhaitée",
+        "notes": "Souhaitez-vous nous préciser quelque chose ?",
+        "consent": "J’accepte que Buildcaps me contacte au sujet de ce rendez-vous et traite mes données conformément à la politique de confidentialité.",
+        "verifyTitle": "Vérifiez votre numéro de téléphone",
+        "verifyBody": "Nous avons envoyé un code à 6 chiffres au {phone}.",
+        "resend": "Renvoyer le code"
+      }
+    },
+    "summary": "Votre rendez-vous",
+    "confirm": "Confirmer la réservation",
+    "confirmed": {
+      "title": "Votre rendez-vous est réservé.",
+      "body": "{advisor} vous recevra le {date} à {time}. Une confirmation est en route vers {email}.",
+      "addGoogle": "Ajouter à Google Agenda",
+      "addOutlook": "Ajouter à Outlook",
+      "downloadIcs": "Télécharger le fichier de calendrier",
+      "prepare": "En attendant : recevez le Guide de l’investisseur à Dubaï 2026",
+      "manage": "Un changement à prévoir ? Utilisez le lien figurant dans votre e-mail pour reporter ou annuler.",
+      "reference": "Référence {id}"
+    },
+    "manage": {
+      "title": "Gérer votre rendez-vous",
+      "reschedule": "Reporter",
+      "cancel": "Annuler le rendez-vous",
+      "cancelConfirm": "Souhaitez-vous vraiment annuler ?",
+      "cancelled": "Votre rendez-vous a été annulé.",
+      "notFound": "Nous n’avons pas retrouvé ce rendez-vous. Il a peut-être été annulé, ou le lien est incomplet.",
+      "details": "Votre rendez-vous",
+      "pickNewTime": "Choisissez un nouvel horaire",
+      "rescheduled": "C’est fait. Votre rendez-vous a été déplacé et une confirmation est en route.",
+      "keep": "Conserver mon rendez-vous",
+      "past": "Ce rendez-vous a déjà eu lieu."
+    },
+    "errors": {
+      "slotTaken": "Nous sommes désolés, ce créneau vient d’être réservé. Veuillez en choisir un autre.",
+      "generic": "Une erreur s’est produite. Veuillez réessayer ou nous écrire sur WhatsApp.",
+      "invalid": "Veuillez vérifier vos informations et réessayer.",
+      "human": "Veuillez effectuer la vérification de sécurité, puis réessayer.",
+      "rateLimited": "Trop de tentatives. Veuillez patienter quelques minutes ou nous écrire sur WhatsApp."
+    },
+    "trust": "Gratuit · Sans engagement · Vos données restent confidentielles",
+    "eventTitle": "Buildcaps : {purpose}",
+    "eventBody": "Votre rendez-vous avec {advisor}, Buildcaps Real Estate. Référence {reference}.",
+    "summaryLabels": {
+      "purpose": "Objet",
+      "mode": "Format",
+      "advisor": "Conseiller",
+      "time": "Horaire"
+    },
+    "unavailable": {
+      "title": "Organisons votre appel directement",
+      "body": "La réservation en ligne est momentanément suspendue. Écrivez-nous sur WhatsApp ou appelez-nous : un conseiller qui parle votre langue trouvera avec vous un créneau dès aujourd'hui."
+    },
+    "review": {
+      "title": "Comment s’est passé votre rendez-vous avec {advisor} ?",
+      "body": "Votre évaluation aide d’autres investisseurs à choisir leur conseiller. Cela prend 20 secondes.",
+      "rating": "Votre note",
+      "stars": "{count, plural, one {# étoile} other {# étoiles}}",
+      "comment": "Qu’est-ce qui s’est bien passé, ou qu’aurait-on pu améliorer ? (facultatif)",
+      "firstName": "Prénom à afficher (facultatif)",
+      "consent": "Votre prénom, votre note et votre commentaire pourront apparaître sur le profil de {advisor} après une brève vérification. Nous n’affichons jamais votre nom de famille ni vos coordonnées.",
+      "submit": "Envoyer mon avis",
+      "done": "Merci. Votre avis a bien été reçu.",
+      "error": "Nous n’avons pas pu enregistrer votre avis. Veuillez réessayer, ou répondre directement à notre e-mail."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Échangez avec un conseiller dans votre langue, selon le mode de contact que vous préférez.",
+    "form": {
+      "title": "Envoyez-nous un message",
+      "name": "Nom et prénom",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "interest": "Je souhaite des informations sur",
+      "interests": {
+        "buy": "Un achat",
+        "rent": "Une location",
+        "sell": "Une vente",
+        "valuation": "Une estimation",
+        "mortgage": "Un financement immobilier",
+        "goldenVisa": "Le Golden Visa",
+        "general": "Autre sujet"
+      },
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "success": "Merci. Un conseiller vous répondra dans l’heure ouvrée.",
+      "error": "Veuillez vérifier votre nom et votre adresse e-mail, puis réessayer."
+    },
+    "visit": "Rendez-vous à notre bureau",
+    "directions": "Obtenir l’itinéraire"
+  },
+  "ai": {
+    "concierge": {
+      "title": "Buildcaps Concierge",
+      "greeting": "Bonjour, je suis le Buildcaps Concierge. Posez-moi toutes vos questions sur l’immobilier à Dubaï, dans la langue de votre choix.",
+      "placeholder": "Posez une question sur les biens, les quartiers, les frais, le Golden Visa…",
+      "suggestions": [
+        "Que puis-je acheter pour 1,5 M AED ?",
+        "Quels quartiers offrent les meilleurs rendements ?",
+        "Comment acheter depuis l’étranger ?",
+        "Réserver un appel avec un conseiller"
+      ],
+      "handoff": "Mise en relation avec un conseiller…",
+      "voice": "Parler",
+      "disclaimer": "Les réponses de l’IA peuvent comporter des erreurs. Votre conseiller confirme chaque détail.",
+      "subtitle": "Des réponses dans votre langue, 24h/24 et 7j/7",
+      "offline": "Je ne peux pas répondre automatiquement pour le moment, mais un conseiller le peut. Réservez un appel stratégique gratuit ou écrivez-nous sur WhatsApp : nous vous répondrons rapidement.",
+      "readAloud": "Lire les réponses à voix haute",
+      "send": "Envoyer",
+      "bookCta": "Réserver un appel",
+      "whatsappCta": "Continuer sur WhatsApp"
+    },
+    "panels": {
+      "estimate": "Buildcaps Estimate",
+      "estimateRange": "{low} – {high}",
+      "comparables": "Basé sur {count} transactions DLD récentes à proximité",
+      "wealthTwin": "Wealth Twin",
+      "regret": "Regret Radar",
+      "handover": "Handover Truth Score",
+      "handoverValue": "{value} % de probabilité de livraison dans les délais",
+      "ghostTenant": "Ghost Tenant Market",
+      "futureView": "Future Skyline View",
+      "dayInLife": "Day in Your Life",
+      "keywords": "Points forts",
+      "details": "Voir les détails",
+      "tryEstimate": "Obtenir une estimation instantanée",
+      "handoverBasis": "Estimation du modèle fondée sur l’avancement du chantier, le compte séquestre et les antécédents du promoteur",
+      "links": {
+        "wealthTwin": "Votre patrimoine net avec ce bien, comparé à celui dans votre pays",
+        "ghostTenant": "Meilleur loyer, jours de vacance, location courte ou longue durée",
+        "futureView": "La vue aujourd’hui et dans cinq ans, heures d’ensoleillement",
+        "dayInYourLife": "Trajets, lieux à proximité et coût de la vie"
+      }
+    },
+    "generating": "Analyse en cours…",
+    "error": "Nous n’avons pas pu réaliser cette analyse pour le moment. Veuillez réessayer.",
+    "disclaimer": "Les estimations de l’IA reposent sur des données de marché publiques et des modèles. Elles sont fournies à titre informatif uniquement et ne constituent pas un conseil financier."
+  },
+  "whatsapp": {
+    "label": "Écrivez-nous sur WhatsApp",
+    "prefill": "Bonjour Buildcaps, j’aimerais parler d’un investissement à Dubaï.",
+    "prefillProperty": "Bonjour Buildcaps, je suis intéressé(e) par {property} ({url})."
+  },
+  "cookie": {
+    "title": "Votre vie privée",
+    "body": "Nous utilisons des cookies essentiels au fonctionnement de ce site et, avec votre consentement, des cookies d’analyse pour l’améliorer.",
+    "accept": "Tout accepter",
+    "reject": "Essentiels uniquement",
+    "settings": "Paramètres"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Politique de confidentialité",
+      "summary": "Comment Buildcaps collecte, utilise et protège vos données personnelles.",
+      "sections": [
+        {
+          "title": "Qui sommes-nous",
+          "body": "Buildcaps Real Estate LLC, Dubaï, Émirats arabes unis, est responsable des données personnelles décrites dans la présente politique."
+        },
+        {
+          "title": "Ce que nous collectons",
+          "body": "Les coordonnées que vous nous communiquez (nom, e-mail, téléphone), les détails de votre demande et de vos rendez-vous, ainsi que des données d’analyse si vous acceptez les cookies d’analyse."
+        },
+        {
+          "title": "Pourquoi nous les utilisons",
+          "body": "Pour répondre à vos demandes, organiser et confirmer vos rendez-vous, vous envoyer les guides et lettres d’information que vous sollicitez, et améliorer ce site."
+        },
+        {
+          "title": "Base juridique",
+          "body": "Votre consentement, les démarches précontractuelles que vous nous demandez d’effectuer et notre intérêt légitime à exploiter un site sécurisé, conformément à la PDPL des Émirats arabes unis et, le cas échéant, au RGPD de l’UE."
+        },
+        {
+          "title": "Avec qui nous les partageons",
+          "body": "Les prestataires qui nous aident à exploiter le site et à gérer les rendez-vous (hébergement, e-mail, agenda), ainsi que les promoteurs ou les banques lorsque vous nous demandez de les impliquer."
+        },
+        {
+          "title": "Durée de conservation",
+          "body": "Aussi longtemps que nécessaire pour vous accompagner et respecter nos obligations légales. Passé ce délai, nous les supprimons ou les anonymisons."
+        },
+        {
+          "title": "Vos droits",
+          "body": "Vous pouvez demander à accéder à vos données, à les rectifier, à les supprimer ou à les transférer, retirer votre consentement ou vous opposer à leur traitement, en nous écrivant par e-mail."
+        },
+        {
+          "title": "Transferts internationaux",
+          "body": "Certains prestataires traitent des données en dehors des Émirats arabes unis. Nous ne faisons appel qu'à des prestataires offrant des garanties appropriées."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Conditions d'utilisation",
+      "summary": "Les conditions d'utilisation du site Buildcaps.",
+      "sections": [
+        {
+          "title": "À propos de ces conditions",
+          "body": "Ces conditions s'appliquent à votre utilisation de buildcaps.com. En utilisant le site, vous les acceptez."
+        },
+        {
+          "title": "Informations présentes sur ce site",
+          "body": "Les annonces, prix, rendements et estimations sont fournis à titre d'information uniquement, peuvent évoluer et ne constituent pas une offre. Confirmez toujours les détails auprès de votre conseiller."
+        },
+        {
+          "title": "Pas de conseil financier",
+          "body": "Les calculateurs et les outils d'IA fournissent des estimations fondées sur des données publiques et des modèles. Ils ne constituent ni un conseil financier, ni juridique, ni fiscal."
+        },
+        {
+          "title": "Annonces et permis",
+          "body": "Les annonces immobilières sont publiées avec leur permis de publicité délivré par le Dubai Land Department, comme l'exige la RERA."
+        },
+        {
+          "title": "Liens externes",
+          "body": "Les présentations d'opportunités et d'autres liens peuvent mener vers des sites tiers, qui ont leurs propres conditions."
+        },
+        {
+          "title": "Propriété intellectuelle",
+          "body": "Le contenu et la conception de ce site appartiennent à Buildcaps ou à ses concédants de licence et ne peuvent être copiés sans autorisation."
+        },
+        {
+          "title": "Responsabilité",
+          "body": "Dans les limites permises par la loi, Buildcaps ne peut être tenue responsable des décisions prises uniquement sur la base des informations figurant sur ce site."
+        },
+        {
+          "title": "Droit applicable",
+          "body": "Ces conditions sont régies par les lois de l'émirat de Dubaï et les lois fédérales des Émirats arabes unis."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Politique relative aux cookies",
+      "summary": "Comment le site Buildcaps utilise les cookies et comment les gérer.",
+      "sections": [
+        {
+          "title": "Qu'est-ce qu'un cookie",
+          "body": "De petits fichiers enregistrés par votre navigateur afin qu'un site fonctionne correctement et se souvienne de vos choix."
+        },
+        {
+          "title": "Cookies essentiels",
+          "body": "Nécessaires au fonctionnement du site, par exemple pour mémoriser votre langue. Ils sont toujours activés."
+        },
+        {
+          "title": "Vos préférences",
+          "body": "Votre devise d'affichage et votre unité de surface sont enregistrées dans votre navigateur afin que le site s'en souvienne."
+        },
+        {
+          "title": "Cookies analytiques",
+          "body": "Avec votre consentement, nous mesurons les visites et les conversions afin d'améliorer le site. Vous pouvez modifier votre choix à tout moment."
+        },
+        {
+          "title": "Gérer les cookies",
+          "body": "Vous pouvez également bloquer ou supprimer les cookies dans les paramètres de votre navigateur. Certaines fonctionnalités risquent alors de ne plus fonctionner."
+        }
+      ]
+    },
+    "lastUpdated": "Dernière mise à jour : {date}",
+    "reviewNotice": "Ce document est en cours de finalisation avec nos conseillers juridiques.",
+    "contactLine": "Des questions sur ce document ? Contactez {company} à l'adresse"
+  },
+  "notFound": {
+    "title": "Cette page a été déplacée ou n’a jamais existé.",
+    "body": "Reprenons le bon chemin.",
+    "home": "Retour à l’accueil",
+    "search": "Rechercher des biens"
+  },
+  "calc": {
+    "common": {
+      "results": "Vos résultats",
+      "estimate": "Estimations données à titre indicatif, à partir des chiffres que vous saisissez. Ne constitue pas un conseil financier."
+    },
+    "roi": {
+      "price": "Prix d'achat (AED)",
+      "rent": "Loyer annuel attendu (AED)",
+      "costs": "Charges annuelles, p. ex. charges de copropriété (AED)",
+      "appreciation": "Hausse annuelle des prix",
+      "years": "Durée de détention (années)",
+      "grossYield": "Rendement brut",
+      "netYield": "Rendement net",
+      "netIncome": "Revenu net annuel",
+      "futureValue": "Valeur estimée après {years, plural, one {# an} other {# ans}}",
+      "totalReturn": "Rendement total estimé"
+    },
+    "mortgage": {
+      "price": "Prix du bien (AED)",
+      "downPayment": "Apport",
+      "rate": "Taux d'intérêt",
+      "term": "Durée (années)",
+      "residency": "Résidence",
+      "resident": "Résident des EAU",
+      "nonResident": "Non-résident",
+      "loan": "Montant du prêt",
+      "monthly": "Mensualité",
+      "totalInterest": "Total des intérêts",
+      "ltvWarning": "Les banques prêtent généralement jusqu'à {max} de la valeur du bien aux {who}. Envisagez un apport plus important.",
+      "ltvResident": "résidents",
+      "ltvNonResident": "non-résidents"
+    },
+    "plan": {
+      "price": "Prix du bien (AED)",
+      "onBooking": "À la réservation",
+      "during": "Pendant la construction",
+      "onHandover": "À la livraison",
+      "postHandover": "Après la livraison",
+      "months": "Mois avant la livraison",
+      "postMonths": "Mois de paiements après la livraison",
+      "frequency": "Échéances",
+      "monthly": "Mensuelles",
+      "quarterly": "Trimestrielles",
+      "sumWarning": "Le plan totalise {total} %. Il doit atteindre 100 %.",
+      "schedule": "Échéancier de paiement",
+      "date": "Date",
+      "amount": "Montant",
+      "paid": "Payé",
+      "stage": {
+        "label": "Étape",
+        "booking": "Réservation",
+        "construction": "Construction",
+        "handover": "Livraison",
+        "post": "Après la livraison"
+      }
+    },
+    "fees": {
+      "price": "Prix du bien (AED)",
+      "offPlan": "Achat sur plan",
+      "resale": "Achat via un agent",
+      "mortgage": "Avec un prêt immobilier",
+      "loan": "Montant du prêt (AED)",
+      "items": {
+        "dld": "Frais de transfert DLD (4 %)",
+        "registration": "Frais d'enregistrement et frais administratifs",
+        "agency": "Commission d'agence (2 % + TVA)",
+        "mortgageReg": "Enregistrement de l'hypothèque (0,25 % + AED 290)",
+        "valuation": "Expertise bancaire",
+        "arrangement": "Frais de dossier bancaires (jusqu'à 1 % + TVA)"
+      },
+      "total": "Coûts d'achat estimés",
+      "share": "{value} du prix"
+    },
+    "goldenVisa": {
+      "value": "Valeur totale de votre bien à Dubaï (AED)",
+      "offPlan": "Inclut un bien sur plan",
+      "mortgaged": "Inclut un bien financé par un prêt",
+      "eligible": "Vous pourriez être éligible",
+      "eligibleBody": "Un bien d'une valeur d'au moins AED 2M peut vous ouvrir droit à un Golden Visa de 10 ans, renouvelable.",
+      "notYet": "Pas encore",
+      "notYetBody": "Il vous manque environ {amount} de valeur immobilière pour atteindre AED 2M.",
+      "conditions": "Les biens sur plan et les biens financés par un prêt peuvent être éligibles, sous conditions. Votre conseiller vous confirme les règles en vigueur selon votre situation.",
+      "cta": "Réserver une consultation Golden Visa gratuite"
+    },
+    "currency": {
+      "amount": "Montant",
+      "from": "De",
+      "rates": "Taux indicatifs. Le dirham est arrimé au dollar américain à 3,6725."
+    }
+  },
+  "emails": {
+    "greeting": "Bonjour {name},",
+    "signoff": "L'équipe Buildcaps",
+    "footer": "Buildcaps Real Estate LLC · Office 1604, Conrad Office Tower, Sheikh Zayed Road, Dubai, UAE",
+    "labels": {
+      "when": "Quand",
+      "dubaiTime": "Heure de Dubaï",
+      "how": "Comment",
+      "advisor": "Votre conseiller",
+      "reference": "Référence",
+      "link": "Lien de la réunion",
+      "where": "Lieu",
+      "property": "Bien"
+    },
+    "whatsappCall": "{advisor} vous appellera sur WhatsApp au {phone}.",
+    "manage": "Reporter ou annuler",
+    "manageNote": "Un changement de programme ? Vous pouvez reporter ou annuler votre rendez-vous à tout moment grâce au bouton ci-dessus.",
+    "confirmation": {
+      "subject": "Confirmé : votre rendez-vous Buildcaps du {date}",
+      "heading": "Votre rendez-vous est confirmé.",
+      "body": "{advisor} vous recevra le {date} à {time}. Une invitation de calendrier est jointe."
+    },
+    "reminder24": {
+      "subject": "Demain : votre rendez-vous Buildcaps à {time}",
+      "heading": "À demain",
+      "body": "Un petit rappel de votre rendez-vous avec {advisor}."
+    },
+    "reminder1": {
+      "subject": "Dans une heure : votre rendez-vous Buildcaps",
+      "heading": "Bientôt l’heure",
+      "body": "Votre rendez-vous avec {advisor} commence dans environ une heure."
+    },
+    "rescheduled": {
+      "subject": "Mise à jour : votre rendez-vous Buildcaps a lieu désormais le {date}",
+      "heading": "Votre rendez-vous a été déplacé",
+      "body": "Voici les nouvelles informations. Une invitation de calendrier mise à jour est jointe."
+    },
+    "cancelled": {
+      "subject": "Annulé : votre rendez-vous Buildcaps",
+      "heading": "Votre rendez-vous est annulé",
+      "body": "Si vous souhaitez échanger à un autre moment, réservez un nouveau créneau quand cela vous convient.",
+      "cta": "Réserver un nouveau créneau"
+    },
+    "feedback": {
+      "subject": "Comment s’est passé votre échange avec {advisor} ?",
+      "heading": "Votre avis nous importe",
+      "body": "Merci d’avoir rencontré {advisor}. Pourriez-vous évaluer ce rendez-vous ? Cela prend 20 secondes et aide d’autres investisseurs à choisir leur conseiller.",
+      "cta": "Évaluer mon rendez-vous"
+    },
+    "noShow": {
+      "subject": "Désolés de ne pas vous avoir vu",
+      "heading": "Nous n’avons pas pu vous joindre aujourd’hui",
+      "body": "Aucun souci. Choisissez un nouveau créneau qui vous convienne mieux.",
+      "cta": "Réserver un nouveau créneau"
+    },
+    "guide": {
+      "subject": "Votre Guide de l’investisseur Dubaï 2026",
+      "heading": "Merci de votre intérêt",
+      "body": "Un conseiller vous enverra le Guide de l’investisseur Dubaï 2026 dans votre langue, et vous êtes désormais inscrit à l’Investor Brief hebdomadaire. Vous pouvez vous désabonner à tout moment."
+    }
+  },
+  "intel": {
+    "common": {
+      "explain": "Expliquer simplement",
+      "explaining": "Explication en cours…",
+      "explainUnavailable": "Les explications en langage simple ne sont pas disponibles pour le moment. Les chiffres ci-dessus sont complets.",
+      "inPlainWords": "En termes simples",
+      "listen": "Écouter",
+      "stop": "Arrêter",
+      "basisDld": "Sur la base des registres de ventes du Dubai Land Department.",
+      "basisSample": "Historique de prix fourni à titre d’illustration. Les chiffres en direct du Dubai Land Department le remplaceront dès que le flux de données sera connecté.",
+      "emptyTitle": "Les données en direct arrivent bientôt",
+      "emptyBody": "Cet outil s'appuie sur nos annonces publiées et sur les registres de ventes du Dubai Land Department, en cours de chargement. D'ici là, un conseiller peut l'utiliser pour vous et vous en communiquer les résultats.",
+      "emptyCalculators": "Ces calculateurs sont disponibles dès maintenant :",
+      "emptyFormTitle": "Confiez-le à un conseiller",
+      "emptyFormBody": "Dites-nous ce que vous envisagez. Nous vous répondons sous un jour ouvré."
+    },
+    "estimate": {
+      "community": "Quartier",
+      "beds": "Chambres",
+      "studio": "Studio",
+      "bedsOption": "{count, plural, one {# chambre} other {# chambres}}",
+      "size": "Surface construite",
+      "cta": "Obtenir mon estimation",
+      "empty": "Choisissez le quartier, le nombre de chambres et la surface pour afficher une fourchette de valeur.",
+      "noData": "Nous ne disposons pas encore de suffisamment de données de ventes pour ce quartier. Réservez une évaluation gratuite et un conseiller établira le prix pour vous.",
+      "range": "Valeur estimée",
+      "perSqft": "Prix par pied carré",
+      "confidence": "Niveau de confiance",
+      "confidenceLevels": {
+        "high": "Élevé",
+        "medium": "Moyen",
+        "low": "Faible",
+        "indicative": "Indicatif"
+      },
+      "latest": "Dernière vente comparable",
+      "basisExact": "Sur la base de {count} ventes de biens similaires à {community} au cours des 12 derniers mois (Dubai Land Department).",
+      "basisAnyRooms": "Peu de ventes correspondent à ce nombre de chambres ; l’estimation repose donc sur {count} ventes de biens de taille similaire à {community} au cours des 12 derniers mois.",
+      "basisCommunity": "À titre indicatif uniquement : fondé sur le prix moyen par pied carré à {community}. Des ventes comparables le remplaceront dès que le flux DLD sera connecté.",
+      "book": "Réserver une évaluation gratuite"
+    },
+    "dataRoom": {
+      "trendTitle": "Évolution du prix par pied carré",
+      "trendBody": "Prix de vente moyen annuel par pied carré, comparé à la moyenne de l’ensemble des quartiers que nous couvrons.",
+      "community": "Quartier",
+      "dubaiAverage": "Tous les quartiers",
+      "mapLabel": "Carte des quartiers de Dubaï avec leur prix moyen au pied carré",
+      "tableTitle": "Aperçu des quartiers",
+      "pricePerSqft": "AED / pi²",
+      "yield": "Rendement brut",
+      "change": "Sur un an",
+      "outlook": "Projection du modèle",
+      "outlookNote": "La projection du modèle correspond à la croissance annuelle retenue dans nos simulations : un mélange de l’historique récent et de la moyenne de long terme de Dubaï. Il ne s’agit pas d’une prévision.",
+      "feedTitle": "Dernières ventes enregistrées",
+      "feedEmpty": "Le flux des transactions en direct s’affichera ici dès que les données du DLD seront connectées.",
+      "rentVsBuy": {
+        "title": "Louer ou acheter à {community} ?",
+        "size": "Surface du logement",
+        "years": "Durée de séjour (en années)",
+        "rentCost": "Total des loyers",
+        "buyCost": "Coût de la propriété",
+        "buyWins": "Sur {years, plural, one {# an} other {# ans}}, acheter devrait coûter moins cher que louer.",
+        "rentWins": "Sur {years, plural, one {# an} other {# ans}}, louer devrait coûter moins cher qu’acheter.",
+        "assumptions": "Achat : apport de 20 %, prêt immobilier à 4,5 % sur 25 ans, frais d’acquisition de 7 %, charges de copropriété de 16 AED par pi², frais de revente de 2 %, déduction faite de la hausse de prix attendue. Location : loyer actuel type, en hausse de 3 % par an."
+      }
+    },
+    "matchMe": {
+      "progress": "Question {step} sur {total}",
+      "questions": {
+        "goal": "Quel est l’objectif de ce bien ?",
+        "budget": "Quel est votre budget ?",
+        "type": "Quel type de logement ?",
+        "beds": "De combien de chambres avez-vous besoin ?",
+        "timing": "Livré ou sur plan ?",
+        "priorities": "Qu’est-ce qui compte le plus ?"
+      },
+      "goals": {
+        "live": "Y habiter",
+        "invest": "Investir",
+        "both": "Les deux"
+      },
+      "upTo": "Jusqu’à {amount}",
+      "types": {
+        "apartment": "Appartement",
+        "villa": "Villa ou maison de ville",
+        "any": "Indifférent"
+      },
+      "studio": "Studio",
+      "bedsAtLeast": "{count, plural, one {#+ chambre} other {#+ chambres}}",
+      "bedsShort": "{count} ch.",
+      "yieldShort": "Rendement de {value}",
+      "timing": {
+        "ready": "Prêt à emménager",
+        "offPlan": "Sur plan",
+        "any": "Indifférent"
+      },
+      "priorities": {
+        "yield": "Revenus locatifs",
+        "growth": "Plus-value",
+        "waterfront": "Vue sur la mer ou sur l’eau",
+        "family": "Espace pour la famille",
+        "goldenVisa": "Golden Visa",
+        "paymentPlan": "Plan de paiement après livraison"
+      },
+      "prioritiesHint": "Sélectionnez ce qui vous concerne, ou rien.",
+      "back": "Retour",
+      "next": "Suivant",
+      "show": "Voir mes sélections",
+      "resultsTitle": "{count, plural, one {Votre meilleure correspondance} other {Vos # meilleures correspondances}}",
+      "noMatches": "Aucun bien ne répond encore à tous ces critères. Essayez un budget plus élevé ou moins de critères indispensables, ou interrogez un conseiller sur les biens hors marché.",
+      "restart": "Recommencer",
+      "rank": "Sélection n° {rank}",
+      "reasons": {
+        "budget": "Dans votre budget",
+        "type": "Le type que vous souhaitez",
+        "beds": "Nombre de chambres suffisant",
+        "timing": "Correspond à votre calendrier",
+        "yield": "Rendement locatif solide",
+        "growth": "Quartier en croissance",
+        "waterfront": "Front de mer",
+        "family": "Adapté aux familles",
+        "goldenVisa": "Éligible au Golden Visa",
+        "paymentPlan": "Paiement après la livraison"
+      },
+      "view": "Voir le bien",
+      "book": "Réserver une visite",
+      "sendBrief": "Laissez-nous vos coordonnées et un conseiller vous enverra des biens adaptés, y compris certains qui ne sont pas annoncés publiquement."
+    },
+    "wealthTwin": {
+      "property": "Bien",
+      "custom": "Saisir mes propres chiffres",
+      "community": "Quartier",
+      "price": "Prix d’achat",
+      "currency": "Votre devise de référence",
+      "down": "Apport en numéraire (le solde financé par un prêt immobilier)",
+      "rate": "Taux du prêt immobilier",
+      "homeAssumptions": "Votre alternative dans votre pays",
+      "homeReturn": "Rendement attendu dans votre pays, par an",
+      "homeVol": "Amplitude des variations de ce rendement, par an",
+      "tax": "Impôt de votre pays de résidence sur les revenus locatifs",
+      "fx": "Variation annuelle du dirham par rapport à votre devise",
+      "residency": "Ce que représente pour vous la résidence aux Émirats, par an",
+      "inYears": "Votre jumeau Dubaï dans {years} ans",
+      "vsHome": "Jumeau dans votre pays : {amount}",
+      "year": "Année {year}",
+      "dubaiLine": "Dubaï (médiane)",
+      "homeLine": "Dans votre pays (médiane)",
+      "chartNote": "La zone ombrée correspond aux 80 % centraux de 2 000 scénarios simulés pour l’achat à Dubaï. La ligne en pointillés représente le même capital conservé dans votre pays.",
+      "chanceAhead": "Probabilité que Dubaï soit en tête après {years} ans",
+      "cashIn": "Apport en numéraire aujourd’hui"
+    },
+    "regretRadar": {
+      "pastTitle": "Si vous aviez acheté ici avant…",
+      "community": "Quartier",
+      "year": "Année d’achat hypothétique",
+      "amount": "Montant investi",
+      "worthNow": "Valeur aujourd’hui, loyers inclus",
+      "worthHint": "Valeur actuelle plus loyers nets perçus, moins les frais d’achat",
+      "perYear": "Rendement annuel",
+      "years": "{years, plural, one {# an} other {# ans}}",
+      "valueNow": "Valeur actuelle",
+      "rent": "Loyers nets perçus",
+      "costs": "Frais d’achat",
+      "gain": "Gain total",
+      "dubaiAverage": "Même somme répartie sur l’ensemble des quartiers",
+      "perSqft": "AED par pied carré",
+      "noHistory": "L’historique des prix de ce quartier n’est pas encore suffisant.",
+      "radarTitle": "Quelle option regretteriez-vous le moins ?",
+      "radarBody": "Nous simulons chaque option à travers les mêmes 3 000 scénarios de marché et comptons à quelle fréquence chacune termine très en retrait par rapport à la meilleure alternative.",
+      "options": "Comparer (de deux à quatre)",
+      "optionsHint": "Choisissez entre deux et quatre quartiers.",
+      "horizon": "Durée de détention",
+      "leastRegret": "Le moins susceptible d’être regretté",
+      "regretChance": "Probabilité de regret : {value}",
+      "option": "Option",
+      "median": "Rendement typique",
+      "range": "Fourchette probable",
+      "loss": "Probabilité de perte",
+      "regret": "Probabilité de regret",
+      "method": "Rendement total sur {years} ans : variation du prix plus loyers nets, après 7 % de frais d’achat et 2 % de frais de vente. Il y a regret lorsque l’on accuse plus de 20 points de retard sur la meilleure autre option.",
+      "pickTwo": "Choisissez au moins deux quartiers à comparer."
+    },
+    "portfolio": {
+      "budget": "Budget total",
+      "goal": "Votre priorité",
+      "goals": {
+        "income": "Revenus",
+        "balanced": "Équilibré",
+        "growth": "Croissance"
+      },
+      "units": "Nombre de biens",
+      "upToUnits": "Jusqu’à {count}",
+      "offPlan": "Inclure la vente sur plan",
+      "income": "Revenus locatifs",
+      "incomeHint": "Rendement net moyen sur 10 ans",
+      "growth": "Hausse des prix",
+      "growthHint": "Perspective du modèle par an",
+      "risk": "Risque",
+      "riskHint": "Variation annuelle ; ratio de diversification {ratio}",
+      "offPlanTag": "Sur plan",
+      "readyTag": "Livré",
+      "incomeFrom": "Loyers à partir de {year}",
+      "total": "Total {total}, soit {share} de votre budget",
+      "netRent": "Loyer net",
+      "chartNote": "Loyer net par année. Les biens sur plan commencent à générer des revenus après la livraison.",
+      "none": "Aucune combinaison des annonces actuelles ne correspond à ce budget. Essayez un budget plus élevé ou interrogez un conseiller sur les biens hors marché."
+    },
+    "ghostTenant": {
+      "property": "Bien",
+      "custom": "Saisir mon propre bien",
+      "community": "Quartier",
+      "size": "Surface",
+      "furnished": "Meublé",
+      "asking": "Votre loyer annuel demandé",
+      "marketHint": "Loyer habituel pour ce bien : {amount}",
+      "month": "Mois de mise en location",
+      "bestAsking": "Loyer optimal",
+      "bestHint": "Environ {days} jours pour louer",
+      "yourDays": "Jours de vacance à votre prix",
+      "signChance": "{value} de chances de trouver un locataire sous 30 jours",
+      "firstYear": "Revenu de la première année",
+      "firstYearHint": "Après déduction des jours de vacance",
+      "daysEmpty": "Jours de vacance",
+      "income": "Revenu de la première année",
+      "chartNote": "Chaque point : 400 saisons de location simulées à ce loyer demandé. La ligne pointillée indique le meilleur revenu de première année.",
+      "letTitle": "Location longue durée ou meublé touristique ?",
+      "longLet": "Location longue durée, nette de charges de copropriété",
+      "shortLet": "Meublé touristique (taux d’occupation de {occupancy}, environ {nightly} la nuit)",
+      "shortLetNote": "Meublé touristique : 20 % de frais de gestion, charges et internet, permis DTCM et ameublement. Nécessite un permis de location touristique délivré par le Department of Economy and Tourism de Dubaï.",
+      "exit": "Sortie raisonnable au plus tôt : après {years, plural, one {# an} other {# ans}} (au moins 70 % de chances de réaliser un gain après tous les frais).",
+      "exitLater": "Sur ces hypothèses, une revente dans les 10 ans a peu de chances d’être profitable après frais."
+    },
+    "handover": {
+      "probabilityLabel": "{value} % de probabilité de livraison dans les délais",
+      "onTime": "Probabilité de livraison d’ici le {date}",
+      "confidence": {
+        "low": "Confiance faible : peu de données vérifiées pour l’instant",
+        "medium": "Confiance moyenne",
+        "high": "Confiance élevée"
+      },
+      "actualProgress": "Avancement du chantier",
+      "expectedProgress": "Avancement attendu à ce jour",
+      "delay": "Si l’écart actuel persiste : environ {months, plural, one {# mois} other {# mois}} de retard",
+      "factors": {
+        "progress": "Avancement de {actual} % contre {expected} % attendu à ce jour",
+        "track": "{rate, select, unknown {Aucun historique de livraison vérifié pour ce promoteur à ce jour : nous retenons une performance moyenne} other {Livraison dans les délais pour {rate} % des projets passés}}",
+        "escrow": "{registered, select, yes {Compte séquestre enregistré auprès de la RERA} other {Aucun compte séquestre enregistré au dossier}}",
+        "experience": "{delivered, plural, =0 {Aucun projet achevé au dossier} one {# projet achevé} other {# projets achevés}}",
+        "pace": "Rythme récent de {pace} % par mois ; {needed} % par mois nécessaires pour finir dans les délais"
+      },
+      "pulse": "Pouls du chantier"
+    },
+    "promiseLedger": {
+      "ledgerTitle": "Engagements tenus, par promoteur",
+      "ledgerBody": "Chaque engagement figurant dans une brochure ou un contrat, confronté à ce qui a été livré. Seuls les dossiers vérifiés sont affichés.",
+      "noRecord": "Aucun dossier vérifié pour l’instant",
+      "kept": "des engagements contrôlés tenus",
+      "evidence": "Preuves",
+      "status": {
+        "pending": "En attente",
+        "delivered": "Tenue",
+        "partly": "Partiellement tenue",
+        "broken": "Non tenue"
+      },
+      "check": {
+        "title": "Vérifier une brochure ou un contrat",
+        "body": "Téléversez une brochure de promoteur ou un contrat de vente (SPA) au format PDF. Nous recensons chaque promesse et signalons les clauses inhabituelles, dans votre langue.",
+        "pick": "Choisir un PDF (10 Mo maximum)",
+        "cta": "Vérifier mon document",
+        "reading": "Lecture de votre document en cours…",
+        "errors": {
+          "file": "Veuillez choisir un PDF de moins de 10 Mo.",
+          "busy": "Nous n’avons pas pu lire le document pour le moment. Veuillez réessayer dans quelques minutes.",
+          "offline": "La vérification de documents n’est pas encore disponible. Un conseiller peut l’examiner avec vous.",
+          "human": "Veuillez effectuer le contrôle de sécurité, puis réessayer."
+        },
+        "privacy": "Votre document est lu une seule fois pour produire ce récapitulatif et n’est pas conservé.",
+        "empty": "Votre récapitulatif, les promesses et les clauses à remettre en question apparaîtront ici.",
+        "summary": "Récapitulatif",
+        "clauses": "Clauses à questionner",
+        "risk": {
+          "high": "Élevé",
+          "medium": "Moyen",
+          "low": "Faible"
+        },
+        "ask": "À demander :",
+        "promises": "Promesses figurant dans ce document",
+        "categories": {
+          "handover": "Livraison",
+          "amenity": "Équipement",
+          "specification": "Caractéristiques techniques",
+          "payment": "Paiement",
+          "community": "Communauté",
+          "other": "Autre"
+        },
+        "questions": "Questions à poser avant de signer",
+        "notLegal": "Un résumé généré par IA, et non un avis juridique. Faites relire tout contrat par un avocat avant de signer."
+      },
+      "noDevelopers": "Les registres des promoteurs sont en cours de vérification et apparaîtront bientôt ici. Vous pouvez dès à présent contrôler une brochure ou un contrat ci-dessous."
+    },
+    "buyerBloc": {
+      "from": "À partir de",
+      "handover": "Livraison : {date}",
+      "progress": "{joined} investisseurs sur {target} ont rejoint le groupe",
+      "noLaunches": "Aucun lancement n’est ouvert à un groupement d’acheteurs pour le moment.",
+      "formTitle": "Rejoindre le groupe pour {project}",
+      "name": "Nom complet",
+      "email": "E-mail",
+      "phone": "Téléphone ou WhatsApp",
+      "country": "Pays",
+      "units": "Nombre d’unités",
+      "budget": "Budget par unité (AED)",
+      "cta": "Rejoindre le groupe",
+      "error": "Une erreur s’est produite. Veuillez vérifier vos informations et réessayer.",
+      "doneTitle": "Vous faites partie du groupe",
+      "doneBody": "Nous vous tiendrons informé(e) de l’avancement des inscriptions pour {project}, et avant tout accord conclu avec le promoteur. Rejoindre le groupe ne vous engage pas à acheter.",
+      "legal": "Buyer Bloc est un programme pilote. Les conditions de l’achat groupé dépendent de l’accord du promoteur et de la réglementation applicable ; chaque acheteur signe son propre contrat de vente. L’inscription est gratuite et sans engagement."
+    },
+    "dayInLife": {
+      "where": "Où vous vivriez",
+      "communities": "Communautés",
+      "listings": "Nos annonces",
+      "destinations": "Vos destinations principales (quatre maximum)",
+      "places": {
+        "difc": "DIFC",
+        "downtown": "Downtown Dubai",
+        "businessBay": "Business Bay",
+        "internetCity": "Dubai Internet City",
+        "jlt": "JLT",
+        "marina": "Dubai Marina",
+        "dxb": "Aéroport DXB",
+        "dwc": "Aéroport Al Maktoum (DWC)",
+        "siliconOasis": "Dubai Silicon Oasis",
+        "healthcareCity": "Dubai Healthcare City",
+        "mallOfEmirates": "Mall of the Emirates",
+        "expoCity": "Expo City",
+        "deira": "Deira",
+        "sharjah": "Sharjah",
+        "abuDhabi": "Abu Dhabi"
+      },
+      "leave": "Vous quittez votre domicile à",
+      "adults": "Adultes",
+      "kids": "Enfants",
+      "cars": "Voitures",
+      "school": "Frais de scolarité",
+      "schools": {
+        "none": "Aucun",
+        "mid": "Gamme intermédiaire",
+        "premium": "Premium"
+      },
+      "cta": "Voir ma journée",
+      "monthly": "Coûts de la vie mensuels",
+      "monthlyHint": "Montants indicatifs, hors loyer ou mensualité de prêt",
+      "costs": {
+        "serviceCharge": "Charges de copropriété",
+        "utilities": "Électricité, eau et climatisation",
+        "internet": "Internet et téléphonie",
+        "groceries": "Courses alimentaires",
+        "schools": "Frais de scolarité",
+        "transport": "Voitures, carburant et Salik"
+      },
+      "empty": "Choisissez les lieux où vous vous rendez le plus souvent et découvrez votre trajet aux heures de pointe, ce qui se trouve à proximité et le récit d’une journée type.",
+      "error": "Nous n’avons pas pu préparer votre journée pour le moment. Veuillez réessayer.",
+      "commutes": "En voiture, départ à {time}",
+      "minutes": "{count} min",
+      "freeFlow": "{minutes} min sans circulation · {km} km",
+      "routeOsrm": "Itinéraires issus d’OpenStreetMap (OSRM), avec un coefficient d’heure de pointe typique de Dubai. Les temps réels peuvent varier.",
+      "routeEstimate": "Certains temps sont estimés à partir de la distance, le calcul d’itinéraire n’étant pas disponible.",
+      "nearby": "Autour de vous",
+      "kinds": {
+        "metro": "Métro ou tramway",
+        "supermarket": "Supermarché",
+        "cafe": "Café",
+        "restaurant": "Restaurant",
+        "gym": "Salle de sport",
+        "park": "Parc",
+        "school": "École",
+        "health": "Clinique ou hôpital",
+        "worship": "Lieu de culte",
+        "beach": "Plage"
+      },
+      "within": "{count} dans un rayon de 1,5 km",
+      "noPlaces": "Les lieux à proximité n’ont pas pu être chargés pour le moment.",
+      "osm": "Lieux fournis par les contributeurs d’OpenStreetMap.",
+      "story": "Une journée ici"
+    },
+    "familyRoom": {
+      "startTitle": "Créer un salon familial",
+      "startBody": "Invitez vos proches où qu’ils soient. Chacun écrit dans sa langue et lit les messages des autres traduits.",
+      "start": "Créer un salon",
+      "joinTitle": "Rejoindre un salon",
+      "code": "Code du salon",
+      "join": "Rejoindre",
+      "demo": "Mode aperçu : tant que les salons en direct ne sont pas activés, le salon ne relie que les onglets de ce navigateur.",
+      "roomCode": "Code du salon",
+      "copy": "Copier le lien",
+      "inviteText": "Rejoignez notre salon familial Buildcaps :",
+      "yourName": "Votre nom",
+      "mustHaves": "Vos critères essentiels",
+      "must": {
+        "schools": "Bonnes écoles",
+        "sea": "Vue sur la mer",
+        "metro": "Proche du métro",
+        "quiet": "Quartier calme",
+        "family": "Espace pour la famille",
+        "yield": "Revenus locatifs",
+        "budget": "Respecter le budget",
+        "handover": "Livraison prochaine",
+        "parking": "Deux places de parking",
+        "pets": "Animaux acceptés"
+      },
+      "here": "{count, plural, one {# personne présente} other {# personnes présentes}}",
+      "guest": "Invité",
+      "emptyChat": "Dites bonjour. Les messages sont traduits pour chacun.",
+      "translating": "Traduction en cours…",
+      "showTranslation": "Afficher la traduction",
+      "showOriginal": "Afficher l’original",
+      "placeholder": "Écrire un message",
+      "nameFirst": "Ajoutez votre nom pour participer à la discussion",
+      "send": "Envoyer",
+      "shortlist": "Sélection partagée",
+      "addListing": "Ajouter une annonce",
+      "add": "Ajouter",
+      "like": "J’aime",
+      "dislike": "Je n’aime pas",
+      "compromise": "Trouver un compromis équitable",
+      "compromiseUnavailable": "Le outil de recherche de compromis n’est pas disponible pour le moment.",
+      "share": "Partager dans le salon",
+      "book": "Réserver une visite en famille de {title}"
+    },
+    "futureView": {
+      "unit": "Bien",
+      "floor": "Étage",
+      "facing": "Vos fenêtres donnent au",
+      "directions": {
+        "N": "Nord",
+        "NE": "Nord-est",
+        "E": "Est",
+        "SE": "Sud-est",
+        "S": "Sud",
+        "SW": "Sud-ouest",
+        "W": "Ouest",
+        "NW": "Nord-ouest"
+      },
+      "scenario": "Skyline",
+      "today": "Aujourd’hui",
+      "inFive": "Dans cinq ans",
+      "camera": "Vue",
+      "overview": "Vue d’ensemble",
+      "window": "Depuis votre fenêtre",
+      "day": "Jour",
+      "days": {
+        "summer": "21 juin",
+        "equinox": "20 mars",
+        "winter": "21 décembre"
+      },
+      "hour": "Heure de la journée : {hour}",
+      "noData": "Nous n’avons pas pu charger les bâtiments autour de ce bien pour le moment.",
+      "openToday": "Vue dégagée aujourd’hui",
+      "openFuture": "{value} une fois les tours annoncées construites",
+      "risk": "Risque d’obstruction de la vue",
+      "riskHigh": "Les tours annoncées occuperont une grande partie de cette vue",
+      "riskMedium": "Les tours annoncées occuperont une partie de cette vue",
+      "riskLow": "Cette vue semble préservée pour l’instant",
+      "sun": "Ensoleillement direct sur vos fenêtres",
+      "hours": "{hours} h par jour",
+      "cooling": "Environ {amount} par mois de climatisation supplémentaire",
+      "method": "Bâtiments et hauteurs issus d’OpenStreetMap ; {count, plural, =0 {aucune tour annoncée} one {# tour annoncée} other {# tours annoncées}} dans un rayon de 1,5 km, d’après nos fiches projets. Vue dégagée : part des lignes de vue depuis votre fenêtre libres sur 1,2 km. Le calcul du rafraîchissement suppose 15 m² de vitrage.",
+      "measuring": "Mesure de la vue et de l’ensoleillement…",
+      "retry": "Réessayer"
+    }
+  },
+  "consent": {
+    "title": "Votre vie privée",
+    "body": "Nous utilisons des cookies essentiels au fonctionnement du site. Avec votre accord, nous utilisons également des outils d’analyse pour l’améliorer et des cookies marketing pour mesurer l’efficacité de nos publicités. Vous pouvez modifier votre choix à tout moment.",
+    "policy": "Politique relative aux cookies",
+    "accept": "Tout accepter",
+    "reject": "Refuser les cookies non essentiels",
+    "customise": "Choisir les cookies",
+    "save": "Enregistrer mes choix",
+    "necessary": "Essentiels",
+    "necessaryBody": "Sécurité, langue et votre choix en matière de cookies. Toujours actifs.",
+    "analytics": "Statistiques",
+    "analyticsBody": "Google Analytics, Microsoft Clarity et Vercel Analytics, pour comprendre ce qui est utile aux visiteurs.",
+    "marketing": "Marketing",
+    "marketingBody": "Pixels Meta et TikTok, pour mesurer l'efficacité de nos publicités.",
+    "settings": "Paramètres des cookies"
+  }
+}
